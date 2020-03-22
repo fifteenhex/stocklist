@@ -26,6 +26,12 @@ I have a lot of junk and I need a list to track it so here we are.
 | Zilog                  | Z84C9010VEG     | PLCC 84 | 4        |          | Z80 IO chip   |
 |                        |                 |         |          |          |               |
 
+# Connectors
+
+| vendor                 | part number     | package | quantity | location | notes         |
+|------------------------|-----------------|---------|----------|----------|---------------|
+|                        |                 |         |          |          |               |
+
 # Dev board/module
 
 | vendor                 | part number       | package    | quantity     | location | notes                    |
