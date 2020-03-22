@@ -60,5 +60,6 @@ I have a lot of junk and I need a list to track it so here we are.
 | vendor                 | part number        | package    | quantity     | location | notes                                           |
 |------------------------|--------------------|------------|--------------|----------|-------------------------------------------------|
 | Dangerous Prototypes   | open logic sniffer |            | 1            |          | Logic analyzer, input buffer is probably broked |
+| Dangerous Prototypes   | bus blaster v3c    |            | 1            |          | FT2232 JTAG, ktlink buffer flashed              |
 |                        |                    |            |              |          |                                                 |
 
