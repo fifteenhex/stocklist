@@ -32,3 +32,4 @@
 | Beagle                 | PocketBeagle      |         | 3 (1 broked) |          |             |
 | ST                     | STM32F4 discovery |         | 1            |          |             |
 | TI                     | CC3000BOOST       |         | 1            |          |             |
+| Olimex                 | AM3352-SOM-EVB    |         | 1            |          |             |
