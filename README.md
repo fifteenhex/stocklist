@@ -5,6 +5,8 @@
 | vendor                 | part number     | package | quantity | location | notes         |
 |------------------------|-----------------|---------|----------|----------|---------------|
 | Atmel                  | ATMega16u4-aur  | TQFP 44 | 2        |          |               |
+| AllWinner/SoChip       | S3              | BGA     | 5        |          |               |
+| AllWinner              | V3s             | TQFP    | 7        |          |               |
 | Atmel                  | ATMega32u2-mu   | VQFN 32 | 2        |          |               |
 | Atmel                  | ATMega32u4-au   | TQFP 44 | 2        |          |               |
 | MStar                  | MSC316D         | BGA     | 10       |          |               |
