@@ -55,3 +55,10 @@ I have a lot of junk and I need a list to track it so here we are.
 | Core                   | GR Peach          | Dev board  | 1            |          | Renesas RZ1/A            |
 |                        |                   |            |              |          |                          |
 
+# Tools
+
+| vendor                 | part number        | package    | quantity     | location | notes                                           |
+|------------------------|--------------------|------------|--------------|----------|-------------------------------------------------|
+| Dangerous Prototypes   | open logic sniffer |            | 1            |          | Logic analyzer, input buffer is probably broked |
+|                        |                    |            |              |          |                                                 |
+
