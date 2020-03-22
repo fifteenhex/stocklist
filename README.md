@@ -39,6 +39,12 @@ I have a lot of junk and I need a list to track it so here we are.
 |------------------------|-----------------|---------|----------|----------|---------------|
 |                        |                 |         |          |          |               |
 
+# Flash/EEPROM
+
+| vendor                 | part number     | package | quantity | location | notes         |
+|------------------------|-----------------|---------|----------|----------|---------------|
+| ST                     | M27C160-100F1   | DIP     | 11       |          | recycled      |
+
 # Dev board/module
 
 | vendor                 | part number       | package    | quantity     | location | notes                    |
