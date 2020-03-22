@@ -24,12 +24,16 @@
 
 # Dev board/module
 
-| vendor                 | part number       | package | quantity     | location | notes       |
-|------------------------|-------------------|---------|--------------|----------|-------------|
-| Sipeed                 | Dan Dock          |         | 1            |          | K210        |
-| Sipeed                 | K210 module       |         | 1 (2?        |          | K210        |
-| Beagle                 | BeagleBone White  |         | 1            |          |             |
-| Beagle                 | PocketBeagle      |         | 3 (1 broked) |          |             |
-| ST                     | STM32F4 discovery |         | 1            |          |             |
-| TI                     | CC3000BOOST       |         | 1            |          |             |
-| Olimex                 | AM3352-SOM-EVB    |         | 1            |          |             |
+| vendor                 | part number       | package | quantity     | location | notes                |
+|------------------------|-------------------|---------|--------------|----------|----------------------|
+| Sipeed                 | Dan Dock          |         | 1            |          | K210                 |
+| Sipeed                 | K210 module       |         | 1 (2?        |          | K210                 |
+| Beagle                 | BeagleBone White  |         | 1            |          |                      |
+| Beagle                 | PocketBeagle      |         | 3 (1 broked) |          |                      |
+| ST                     | STM32F4 discovery |         | 1            |          |                      |
+| TI                     | CC3000BOOST       |         | 1            |          |                      |
+| Olimex                 | AM3352-SOM-EVB    |         | 1            |          |                      |
+| Renesas                | YRDKRX62N         |         | 1            |          | RX62N, LCD is broked |
+| Renesas                | YRDKSH7216(W)     |         | 1            |          | SH2A                 |
+|                        |                   |         |              |          |                      |
+
