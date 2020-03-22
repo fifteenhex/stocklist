@@ -35,5 +35,6 @@
 | Olimex                 | AM3352-SOM-EVB    |         | 1            |          |                      |
 | Renesas                | YRDKRX62N         |         | 1            |          | RX62N, LCD is broked |
 | Renesas                | YRDKSH7216(W)     |         | 1            |          | SH2A                 |
+| GlobalScale            | Espressobin       | SBC     | 2            |          |                      |
 |                        |                   |         |              |          |                      |
 
