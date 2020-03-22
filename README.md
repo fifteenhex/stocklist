@@ -38,5 +38,6 @@
 | GlobalScale            | Espressobin       | SBC       | 2            |          |                      |
 | NVidia                 | Jetson Nano       | SBC       | 1            |          |                      |
 | Nordic                 | nRF52840          | Dev board | 1            |          |                      |
+| minibox                | picosam           | SBC       | 2            |          | 1 with LCD           |
 |                        |                   |           |              |          |                      |
 
