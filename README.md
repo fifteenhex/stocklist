@@ -20,3 +20,10 @@
 | Zilog                  | Z84C0020VEG     | PLCC 44 | 4        |          |             |
 | Zilog                  | Z84C9010VEG     | PLCC 84 | 4        |          | Z80 IO chip |
 |                        |                 |         |          |          |             |
+
+# Dev board/module
+
+| vendor                 | part number     | package | quantity | location | notes       |
+|------------------------|-----------------|---------|----------|----------|-------------|
+| Sipeed                 | Dan Dock        |         | 1        |          | K210        |
+|                        |                 |         |          |          |             |
