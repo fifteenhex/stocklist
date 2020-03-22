@@ -10,7 +10,8 @@
 | MStar                  | MSC316D         | BGA     | 10       |          |             |
 | Motorola               | MC68SEC000      | QFP 64  | ~15      |          |             |
 | Motorola               | MC68SZ328       | BGA     | 4        |          |             |
-| NXP                    | LPC1114FN28     | DIP 14  | 3        |          |             |
+| NXP                    | LPC1114FN28     | DIP 28  | 3        |          |             |
+| NXP                    | LPC812M101J     | SOP20?  | 4        |          |             |
 | Silicon Laborotatories | EFM32GG842F1024 | QFP 64  | 2        |          |             |
 | Silicon Laborotatories | EFM32WG322F256  | QFP 64  | 1        |          |             |
 | Silicon Laborotatories | EFM32GG230F1024 | QFN 64  | 2        |          |             |
