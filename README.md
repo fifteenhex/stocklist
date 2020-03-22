@@ -24,9 +24,10 @@
 
 # Dev board/module
 
-| vendor                 | part number     | package | quantity     | location | notes       |
-|------------------------|-----------------|---------|--------------|----------|-------------|
-| Sipeed                 | Dan Dock        |         | 1            |          | K210        |
-| Sipeed                 | K210 module     |         | 1 (2?        |          | K210        |
-| Beagle                 | PocketBeagle    |         | 3 (1 broked) |          |             |
-|                        |                 |         |              |          |             |
+| vendor                 | part number       | package | quantity     | location | notes       |
+|------------------------|-------------------|---------|--------------|----------|-------------|
+| Sipeed                 | Dan Dock          |         | 1            |          | K210        |
+| Sipeed                 | K210 module       |         | 1 (2?        |          | K210        |
+| Beagle                 | PocketBeagle      |         | 3 (1 broked) |          |             |
+| ST                     | STM32F4 discovery |         | 1            |          |             |
+|                        |                   |         |              |          |             |
