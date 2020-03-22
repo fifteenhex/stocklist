@@ -30,4 +30,4 @@
 | Sipeed                 | K210 module       |         | 1 (2?        |          | K210        |
 | Beagle                 | PocketBeagle      |         | 3 (1 broked) |          |             |
 | ST                     | STM32F4 discovery |         | 1            |          |             |
-|                        |                   |         |              |          |             |
+| TI                     | CC3000BOOST       |         | 1            |          |             |
