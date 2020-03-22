@@ -26,23 +26,24 @@
 
 # Dev board/module
 
-| vendor                 | part number       | package   | quantity     | location | notes                    |
-|------------------------|-------------------|-----------|--------------|----------|--------------------------|
-| CJMCU                  | CJMCU-2557        | module    | 1            |          | BQ25570 energy harvester |
-| Sipeed                 | Dan Dock          |           | 1            |          | K210                     |
-| Sipeed                 | K210 module       |           | 1 (2?)       |          | K210                     |
-| Sipeed                 | Maix bit          | Dev board | 1 (2?)       |          | K210                     |
-| Beagle                 | BeagleBone White  |           | 1            |          |                          |
-| Beagle                 | PocketBeagle      |           | 3 (1 broked) |          |                          |
-| ST                     | STM32F4 discovery |           | 1            |          |                          |
-| TI                     | CC3000BOOST       |           | 1            |          |                          |
-| Olimex                 | AM3352-SOM-EVB    |           | 1            |          |                          |
-| Renesas                | YRDKRX62N         |           | 1            |          | RX62N, LCD is broked     |
-| Renesas                | YRDKSH7216(W)     |           | 1            |          | SH2A                     |
-| GlobalScale            | Espressobin       | SBC       | 2            |          |                          |
-| NVidia                 | Jetson Nano       | SBC       | 1            |          |                          |
-| Nordic                 | nRF52840          | Dev board | 1            |          |                          |
-| minibox                | picosam           | SBC       | 2            |          | 1 with LCD               |
-| TTGO                   | t7_v1.4           | Dev board | 1            |          | ESP32                    |
-|                        |                   |           |              |          |                          |
+| vendor                 | part number       | package    | quantity     | location | notes                    |
+|------------------------|-------------------|------------|--------------|----------|--------------------------|
+| CJMCU                  | CJMCU-2557        | module     | 1            |          | BQ25570 energy harvester |
+| espressif              | esp32-wrover-b    | lga module | 5            |          | ESP32                    |
+| Sipeed                 | Dan Dock          |            | 1            |          | K210                     |
+| Sipeed                 | K210 module       |            | 1 (2?)       |          | K210                     |
+| Sipeed                 | Maix bit          | Dev board  | 1 (2?)       |          | K210                     |
+| Beagle                 | BeagleBone White  |            | 1            |          |                          |
+| Beagle                 | PocketBeagle      |            | 3 (1 broked) |          |                          |
+| ST                     | STM32F4 discovery |            | 1            |          |                          |
+| TI                     | CC3000BOOST       |            | 1            |          |                          |
+| Olimex                 | AM3352-SOM-EVB    |            | 1            |          |                          |
+| Renesas                | YRDKRX62N         |            | 1            |          | RX62N, LCD is broked     |
+| Renesas                | YRDKSH7216(W)     |            | 1            |          | SH2A                     |
+| GlobalScale            | Espressobin       | SBC        | 2            |          |                          |
+| NVidia                 | Jetson Nano       | SBC        | 1            |          |                          |
+| Nordic                 | nRF52840          | Dev board  | 1            |          |                          |
+| minibox                | picosam           | SBC        | 2            |          | 1 with LCD               |
+| TTGO                   | t7_v1.4           | Dev board  | 1            |          | ESP32                    |
+|                        |                   |            |              |          |                          |
 
