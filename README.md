@@ -45,5 +45,6 @@
 | Nordic                 | nRF52840          | Dev board  | 1            |          |                          |
 | minibox                | picosam           | SBC        | 2            |          | 1 with LCD               |
 | TTGO                   | t7_v1.4           | Dev board  | 1            |          | ESP32                    |
+| XMOS                   | startkit          | Dev board  | 1            |          |                          |
 |                        |                   |            |              |          |                          |
 
