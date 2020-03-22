@@ -33,6 +33,8 @@
 | Sipeed                 | Dan Dock          |            | 1            |          | K210                     |
 | Sipeed                 | K210 module       |            | 1 (2?)       |          | K210                     |
 | Sipeed                 | Maix bit          | Dev board  | 1 (2?)       |          | K210                     |
+| Sipeed                 | Longan nano       | Dev board  | 2            |          | GD RISC-V                |
+| Firefly                | core-rk3308y      | lga module | 1            |          | RK3308                   |
 | Beagle                 | BeagleBone White  |            | 1            |          |                          |
 | Beagle                 | PocketBeagle      |            | 3 (1 broked) |          |                          |
 | ST                     | STM32F4 discovery |            | 1            |          |                          |
