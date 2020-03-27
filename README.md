@@ -57,6 +57,13 @@ I have a lot of junk and I need a list to track it so here we are.
 |------------------------|-----------------|---------|----------|----------|---------------|
 | ST                     | M27C160-100F1   | DIP     | 11       |          | recycled      |
 
+# Misc
+
+| vendor                 | part number     | package  | quantity | location | notes         |
+|------------------------|-----------------|----------|----------|----------|---------------|
+| TI                     | TS3A27518EPWR   | TSSOP 24 | 9?       |          |               |
+|                        |                 |          |          |          |               |
+
 # Dev board/module
 
 | vendor                 | part number       | package    | quantity     | location | notes                    |
