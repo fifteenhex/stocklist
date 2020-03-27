@@ -32,7 +32,8 @@ I have a lot of junk and I need a list to track it so here we are.
 |------------------------|------------------|---------|----------|----------|---------------|
 | Lattice                | ICE5LP1K-SG48ITR | QFN 48  | 5        |          |               |
 | Lattice                | ICE5LP4K-SG48ITR | QFN 48  | 2        |          |               |
-| Lattice                | ICE40LP1K-QN8    | QFN 84  | 2        |          |               |
+| Lattice                | ICE40LP1K-QN84   | QFN 84  | 2        |          |               |
+| Lattice                | ICE40LP384-SG32  | QFN 32  | 9?       |          |               |
 |                        |                  |         |          |          |               |
 
 # Interface
