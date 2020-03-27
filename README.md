@@ -31,6 +31,8 @@ I have a lot of junk and I need a list to track it so here we are.
 | vendor                 | part number      | package | quantity | location | notes         |
 |------------------------|------------------|---------|----------|----------|---------------|
 | Lattice                | ICE5LP1K-SG48ITR | QFN 48  | 5        |          |               |
+| Lattice                | ICE5LP4K-SG48ITR | QFN 48  | 2        |          |               |
+|                        |                  |         |          |          |               |
 
 # Interface
 
