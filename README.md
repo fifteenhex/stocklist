@@ -106,4 +106,4 @@ I have a lot of junk and I need a list to track it so here we are.
 | 150w electronic load   |                    |            | 1            |          |                                                 |
 |                        |                    |            |              |          |                                                 |
 
-(150w load)[diymore.cc/products/150w-ldm-digital-electronic-load-discharge-capacity-tester-usb-voltmeter-ammeter?_pos=3&_sid=4049f80b9&_ss=r)
+[150w load](diymore.cc/products/150w-ldm-digital-electronic-load-discharge-capacity-tester-usb-voltmeter-ammeter?_pos=3&_sid=4049f80b9&_ss=r)
