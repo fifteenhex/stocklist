@@ -26,6 +26,12 @@ I have a lot of junk and I need a list to track it so here we are.
 | Zilog                  | Z84C9010VEG     | PLCC 84 | 4        |          | Z80 IO chip   |
 |                        |                 |         |          |          |               |
 
+# SoM
+
+| vendor                 | part number     | package | quantity | location | notes         |
+|------------------------|-----------------|---------|----------|----------|---------------|
+| Wireless tag           | IDO-SOM2D01-V1  | LGA     | 1        |          |               |
+
 # FPGA/CPLD
 
 | vendor                 | part number      | package | quantity | location | notes         |
