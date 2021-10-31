@@ -26,6 +26,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | Zilog                  | Z84C9010VEG     | PLCC 84 | 4        |          | Z80 IO chip   |
 | WinChipHead            | CH552E          | MSOP 10 | 20       |          | 8051 + USB    |
 |                        |                 |         |          |          |               |
+| SigmaStar              | SSD210          | QFN68   |          |          |               |
 
 # SoM
 
