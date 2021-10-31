@@ -24,6 +24,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | Silicon Laborotatories | EFM32ZG110F32   | QFN 24  | 1        |          |               |
 | Zilog                  | Z84C0020VEG     | PLCC 44 | 4        |          |               |
 | Zilog                  | Z84C9010VEG     | PLCC 84 | 4        |          | Z80 IO chip   |
+| WinChipHead            | CH552E          | MSOP 10 | 20       |          | 8051 + USB    |
 |                        |                 |         |          |          |               |
 
 # SoM
