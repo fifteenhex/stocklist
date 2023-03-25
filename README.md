@@ -120,6 +120,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | Dangerous Prototypes             | open logic sniffer |            | 1            |          | Logic analyzer, input buffer is probably broked |
 | Dangerous Prototypes             | bus blaster v3c    |            | 1            |          | FT2232 JTAG, ktlink buffer flashed              |
 | [150w electronic load][150wload] |                    |            | 1            |          |                                                 |
+| WCH                              | WCH-LinkE-R0-1v3.FP|            | 1            |          | WCH RISC-V debugger                             |
 |                                  |                    |            |              |          |                                                 |
 
 [150wload]: https://www.diymore.cc/products/150w-ldm-digital-electronic-load-discharge-capacity-tester-usb-voltmeter-ammeter?_pos=3&_sid=4049f80b9&_ss=r "150w load"
