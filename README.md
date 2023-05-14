@@ -84,6 +84,13 @@ I have a lot of junk and I need a list to track it so here we are.
 | TI                     | TS3A27518EPWR   | TSSOP 24 | 9?       |          |               |
 |                        |                 |          |          |          |               |
 
+# Diodes
+
+| vendor                 | part number     | package  | quantity | location | notes         |
+|------------------------|-----------------|----------|----------|----------|---------------|
+| ??                     | SVR05           | SOT23-6  | LOTS!    |          | ESD diode pack|
+|                        |                 |          |          |          |               |
+
 # Dev board/module
 
 | vendor                 | part number       | package    | quantity     | location | notes                    |
