@@ -40,6 +40,7 @@ I have a lot of junk and I need a list to track it so here we are.
 |------------------------|------------------|---------|----------|----------|---------------|
 | Toshiba                | 74hc595          | DIP     | 4        |          |               |
 | TI                     | sn74lvc1g00dbvr  | sot23-5 | 15       |          |               |
+| TI                     | sn74lvc1g240dbvr | sot23-5 | 10?       |          |               |
 
 # FPGA/CPLD
 
