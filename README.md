@@ -64,7 +64,7 @@ I have a lot of junk and I need a list to track it so here we are.
 |	Qorvo                  | ACT8865QI305-T  | TQFN 32 | 2        |          |               |
 | Everanalog             | EA3036C         |         | LOTS     |          | 3 x DC-DC     |
 | Everanalog             | EA3056          |         | 100      |          |               |
-|                        |                 |         |          |          |               |
+| Silergy                | SY8205FCC       |         | lots     |          | step down     |
 
 # Load switch
 
