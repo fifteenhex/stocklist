@@ -67,6 +67,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | Everanalog             | EA3056          |         | 100      |          |               |
 | Silergy                | SY8205FCC       |         | lots     |          | step down     |
 | Injoinic               | ip6103          |         | 30       |          | pmic          |
+|                        | lxdc55faaa-203  |         | 1        |          | dc-dc         |
 
 # Load switch
 
