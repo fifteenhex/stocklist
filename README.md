@@ -126,6 +126,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | TTGO                   | t18_3.0           | Dev board  | 1            |          | ESP32                    |
 | XMOS                   | startkit          | Dev board  | 1            |          |                          |
 | Core                   | GR Peach          | Dev board  | 1            |          | Renesas RZ1/A            |
+| waveshare              | RP2040 zero       |            | 2            |          |                          |
 |                        |                   |            |              |          |                          |
 
 # Tools
