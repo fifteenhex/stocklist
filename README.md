@@ -34,6 +34,12 @@ I have a lot of junk and I need a list to track it so here we are.
 |------------------------|-----------------|---------|----------|----------|---------------|
 | Wireless tag           | IDO-SOM2D01-V1  | LGA     | 1        |          |               |
 
+# Logic
+
+| vendor                 | part number      | package | quantity | location | notes         |
+|------------------------|------------------|---------|----------|----------|---------------|
+| Toshiba                | 74hc595          | DIP     | 4        |          |               |
+
 # FPGA/CPLD
 
 | vendor                 | part number      | package | quantity | location | notes         |
