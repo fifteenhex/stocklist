@@ -66,6 +66,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | Everanalog             | EA3036C         |         | LOTS     |          | 3 x DC-DC     |
 | Everanalog             | EA3056          |         | 100      |          |               |
 | Silergy                | SY8205FCC       |         | lots     |          | step down     |
+| Injoinic               | ip6103          |         | 30       |          | pmic          |
 
 # Load switch
 
