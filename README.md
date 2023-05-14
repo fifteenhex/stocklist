@@ -59,6 +59,13 @@ I have a lot of junk and I need a list to track it so here we are.
 | Everanalog             | EA3056          |         | 100      |          |               |
 |                        |                 |         |          |          |               |
 
+# Load switch
+
+| vendor                 | part number     | package | quantity | location | notes         |
+|------------------------|-----------------|---------|----------|----------|---------------|
+|	Silergy                | SY6288AAAAC     | sot23-6 | 50?      |          | active high   |
+|                        |                 |         |          |          |               |
+
 # RTC
 
 | vendor                 | part number     | package | quantity | location | notes         |
