@@ -161,4 +161,5 @@ MMA7660FC - accelerometer
 RTL8309N - 8 port ethernet switch
 STM32L011D3P6 - stm32 mcu
 MMBT3904 (1AM) - NPN transistor
+RT9525 - Lipo charger with power path
 
