@@ -95,6 +95,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | Longsys                | FS35ND01G-S1Y2QWFI000 | WSON 8  | 9        |          | 1GBit SPI NAND |
 | Winbond                | 25q128jvsq            |         | lots     |          | 128mbit SPI NOR |
 | Winbond                | 25q128jvpm            | wson-8  | 10       |          | 128mbit SPI NOR |
+| Winbond                | 25q128fveg            | wson-8  | 8       |          | 128mbit SPI NOR |
  
 # Misc
 
