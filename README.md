@@ -70,7 +70,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | vendor                 | part number     | package | quantity | location | notes         |
 |------------------------|-----------------|---------|----------|----------|---------------|
 |	Silergy                | SY6288AAAAC     | sot23-6 | 50?      |          | active high   |
-|                        |                 |         |          |          |               |
+| Microchip              | MIC2505-1YM     |         | 4        |          |               |
 
 # RTC
 
