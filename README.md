@@ -90,6 +90,7 @@ I have a lot of junk and I need a list to track it so here we are.
 |------------------------|-----------------------|---------|----------|----------|----------------|
 | ST                     | M27C160-100F1         | DIP     | 11       |          | recycled       |
 | Longsys                | FS35ND01G-S1Y2QWFI000 | WSON 8  | 9        |          | 1GBit SPI NAND |
+| Winbond                | 25q128jvsq            |         | lots     |          | 128mbit SPI NOR |
  
 # Misc
 
