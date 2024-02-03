@@ -89,6 +89,7 @@ I have a lot of junk and I need a list to track it so here we are.
 |------------------------|-----------------|---------|----------|----------|---------------|
 |                        | TYPE-C-31-M-12  |         | 50       |          | USB-C 12 pin  |
 |                        | USB-C break out |         | 3        | USB box  | https://www.amazon.co.jp/gp/product/B0978MK2R5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1 |
+|                        | mini usb        |         | too many | USB box  |               |
 
 # Flash/EEPROM
 
