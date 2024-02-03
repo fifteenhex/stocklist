@@ -57,7 +57,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | vendor                 | part number     | package | quantity | location | notes         |
 |------------------------|-----------------|---------|----------|----------|---------------|
 | Holtek                 | HT42B534        | SOP 8   | Too many |          | USB->UART PoS |
-| WCH                    | CH340E          |         | lots     |          | https://datasheet.lcsc.com/lcsc/2305301024_WCH-Jiangsu-Qin-Heng-CH340E_C99652.pdf |
+| WCH                    | CH340E          |         | lots     | USB box  | https://datasheet.lcsc.com/lcsc/2305301024_WCH-Jiangsu-Qin-Heng-CH340E_C99652.pdf |
 
 # DC-DC/LDO/PMIC
 
@@ -88,6 +88,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | vendor                 | part number     | package | quantity | location | notes         |
 |------------------------|-----------------|---------|----------|----------|---------------|
 |                        | TYPE-C-31-M-12  |         | 50       |          | USB-C 12 pin  |
+|                        | USB-C break out |         | 3        | USB box  | https://www.amazon.co.jp/gp/product/B0978MK2R5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1 |
 
 # Flash/EEPROM
 
