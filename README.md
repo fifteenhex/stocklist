@@ -36,11 +36,12 @@ I have a lot of junk and I need a list to track it so here we are.
 
 # Logic
 
-| vendor                 | part number      | package | quantity | location | notes         |
-|------------------------|------------------|---------|----------|----------|---------------|
-| Toshiba                | 74hc595          | DIP     | 4        |          |               |
-| TI                     | sn74lvc1g00dbvr  | sot23-5 | 15       |          |               |
+| vendor                 | part number      | package | quantity  | location | notes         |
+|------------------------|------------------|---------|-----------|----------|---------------|
+| Toshiba                | 74hc595          | DIP     | 4         |          |               |
+| TI                     | sn74lvc1g00dbvr  | sot23-5 | 15        |          |               |
 | TI                     | sn74lvc1g240dbvr | sot23-5 | 10?       |          |               |
+|                        | 74ahc1g125w5     | sot32-5 |           | logic    |               |
 
 # FPGA/CPLD
 
