@@ -150,6 +150,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | Beagle                 | PocketBeagle      |            | 3 (1 broked) |                          |                          |
 | ST                     | STM32F4 discovery |            | 1            |                          |                          |
 | TI                     | CC3000BOOST       |            | 1            |                          |                          |
+| TI                     | EK-LM4F120XL      | Dev board  | 1            | Brown bookcase, black box|                          |
 | Olimex                 | AM3352-SOM-EVB    |            | 1            |                          |                          |
 | Renesas                | YRDKRX62N         |            | 1            |                          | RX62N, LCD is broked     |
 | Renesas                | YRDKSH7216(W)     |            | 1            |                          | SH2A                     |
