@@ -188,6 +188,14 @@ I have a lot of junk and I need a list to track it so here we are.
 |----------------------------------|---------------------------------|------------|--------------|-----------------------|-------------------------------------------------|
 |                                  | noritake vfd with usb interface |            | 2            | Old skool display box |                                                 |
 
+# Oscillator / xtal
+
+| vendor                 | part number     | package   | quantity | location | notes                                                                             |
+|------------------------|-----------------|-----------|----------|----------|-----------------------------------------------------------------------------------|
+| ???                    | ???             | 4 pin can | 10       | box 1    | 6mhz 5v(?) osc                                                                    |
+| ???                    | ???             | 4 pin can | 10       | box 1    | 8mhz 5v(?) osc                                                                    |
+| ???                    | ???             | 4 pin can | 10       | box 1    | 10mhz 5v(?) osc                                                                   |
+| Raltron                | c019025         | 4 pin can | 3        | box 1    | 100mhz 3.3v osc                                                                   |
 
 # Backlog
 
