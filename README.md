@@ -129,33 +129,33 @@ I have a lot of junk and I need a list to track it so here we are.
 
 # Dev board/module
 
-| vendor                 | part number       | package    | quantity     | location | notes                    |
-|------------------------|-------------------|------------|--------------|----------|--------------------------|
-| CJMCU                  | CJMCU-2557        | module     | 1            |          | BQ25570 energy harvester |
-| espressif              | esp32-wrover-b    | lga module | 5            |          | ESP32                    |
-| Sipeed                 | Dan Dock          |            | 1            |          | K210                     |
-| Sipeed                 | K210 module       |            | 1 (2?)       |          | K210                     |
-| Sipeed                 | Maix bit          | Dev board  | 1 (2?)       |          | K210                     |
-| Sipeed                 | Longan nano       | Dev board  | 2            |          | GD RISC-V                |
-| Sipeed                 | Lichee Tang nano  | Dev board  | 2 (1 LCD)    |          | Gowin FPGA               |
-| Firefly                | core-rk3308y      | lga module | 1            |          | RK3308                   |
-| Beagle                 | BeagleBone White  |            | 1            |          |                          |
-| Beagle                 | PocketBeagle      |            | 3 (1 broked) |          |                          |
-| ST                     | STM32F4 discovery |            | 1            |          |                          |
-| TI                     | CC3000BOOST       |            | 1            |          |                          |
-| Olimex                 | AM3352-SOM-EVB    |            | 1            |          |                          |
-| Renesas                | YRDKRX62N         |            | 1            |          | RX62N, LCD is broked     |
-| Renesas                | YRDKSH7216(W)     |            | 1            |          | SH2A                     |
-| GlobalScale            | Espressobin       | SBC        | 2            |          |                          |
-| NVidia                 | Jetson Nano       | SBC        | 1            |          |                          |
-| Nordic                 | nRF52840          | Dev board  | 1            |          |                          |
-| minibox                | picosam           | SBC        | 2            |          | 1 with LCD               |
-| TTGO                   | t7_v1.4           | Dev board  | 1            |          | ESP32                    |
-| TTGO                   | t18_3.0           | Dev board  | 1            |          | ESP32                    |
-| XMOS                   | startkit          | Dev board  | 1            |          |                          |
-| Core                   | GR Peach          | Dev board  | 1            |          | Renesas RZ1/A            |
-| waveshare              | RP2040 zero       |            | 2            |          |                          |
-|                        |                   |            |              |          |                          |
+| vendor                 | part number       | package    | quantity     | location                 | notes                    |
+|------------------------|-------------------|------------|--------------|--------------------------|--------------------------|
+| CJMCU                  | CJMCU-2557        | module     | 1            |                          | BQ25570 energy harvester |
+| espressif              | esp32-wrover-b    | lga module | 5            |                          | ESP32                    |
+| Sipeed                 | Dan Dock          |            | 1            |                          | K210                     |
+| Sipeed                 | K210 module       |            | 1 (2?)       |                          | K210                     |
+| Sipeed                 | Maix bit          | Dev board  | 1 (2?)       |                          | K210                     |
+| Sipeed                 | Longan nano       | Dev board  | 2            |                          | GD RISC-V                |
+| Sipeed                 | Lichee Tang nano  | Dev board  | 2 (1 LCD)    |                          | Gowin FPGA               |
+| Firefly                | core-rk3308y      | lga module | 1            |                          | RK3308                   |
+| Beagle                 | BeagleBone White  |            | 1            |                          |                          |
+| Beagle                 | PocketBeagle      |            | 3 (1 broked) |                          |                          |
+| ST                     | STM32F4 discovery |            | 1            |                          |                          |
+| TI                     | CC3000BOOST       |            | 1            |                          |                          |
+| Olimex                 | AM3352-SOM-EVB    |            | 1            |                          |                          |
+| Renesas                | YRDKRX62N         |            | 1            |                          | RX62N, LCD is broked     |
+| Renesas                | YRDKSH7216(W)     |            | 1            |                          | SH2A                     |
+| GlobalScale            | Espressobin       | SBC        | 2            |                          |                          |
+| NVidia                 | Jetson Nano       | SBC        | 1            |                          |                          |
+| Nordic                 | nRF52840          | Dev board  | 1            | Brown bookcase, blue box |                          |
+| minibox                | picosam           | SBC        | 2            |                          | 1 with LCD               |
+| TTGO                   | t7_v1.4           | Dev board  | 1            |                          | ESP32                    |
+| TTGO                   | t18_3.0           | Dev board  | 1            |                          | ESP32                    |
+| XMOS                   | startkit          | Dev board  | 1            |                          |                          |
+| Core                   | GR Peach          | Dev board  | 1            |                          | Renesas RZ1/A            |
+| waveshare              | RP2040 zero       |            | 2            |                          |                          |
+|                        |                   |            |              |                          |                          |
 
 # Tools
 
