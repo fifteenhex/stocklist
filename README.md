@@ -74,6 +74,13 @@ I have a lot of junk and I need a list to track it so here we are.
 | Injoinic               | ip6103          |         | 30       |          | pmic          |
 |                        | lxdc55faaa-203  |         | 1        |          | dc-dc         |
 
+# PSU
+
+| vendor                 | part number     | package | quantity | location                    | notes         |
+|------------------------|-----------------|---------|----------|-----------------------------|---------------|
+| cosel                  | PBA50F-36       | block   | 2        | Brown bookcase, brown boxes | 36V mains PSU |
+
+
 # Load switch
 
 | vendor                 | part number     | package | quantity | location | notes         |
