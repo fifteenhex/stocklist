@@ -96,14 +96,21 @@ I have a lot of junk and I need a list to track it so here we are.
 
 # Flash/EEPROM
 
-| vendor                 | part number           | package | quantity | location | notes          |
-|------------------------|-----------------------|---------|----------|----------|----------------|
-| ST                     | M27C160-100F1         | DIP     | 11       |          | recycled       |
-| Longsys                | FS35ND01G-S1Y2QWFI000 | WSON 8  | 9        |          | 1GBit SPI NAND |
+| vendor                 | part number           | package | quantity | location | notes           |
+|------------------------|-----------------------|---------|----------|----------|-----------------|
+| ST                     | M27C160-100F1         | DIP     | 11       |          | recycled        |
+| Longsys                | FS35ND01G-S1Y2QWFI000 | WSON 8  | 9        |          | 1GBit SPI NAND  |
 | Winbond                | 25q128jvsq            |         | lots     |          | 128mbit SPI NOR |
 | Winbond                | 25q128jvpm            | wson-8  | 10       |          | 128mbit SPI NOR |
-| Winbond                | 25q128fveg            | wson-8  | 8       |          | 128mbit SPI NOR |
- 
+| Winbond                | 25q128fveg            | wson-8  | 8        |          | 128mbit SPI NOR |
+| SST/Microchip          | 39sf040 70-4c-phe     | DIP 40  | 8        |          |                 |
+
+# SRAM
+
+| vendor                 | part number           | package | quantity | location | notes           |
+|------------------------|-----------------------|---------|----------|----------|-----------------|
+| Hitachi                |  HM62256LP-12         | DIP 28  | 13       |          | 32Kx8           |
+
 # Misc
 
 | vendor                 | part number     | package  | quantity | location | notes         |
