@@ -57,10 +57,11 @@ I have a lot of junk and I need a list to track it so here we are.
 
 # Interface
 
-| vendor                 | part number     | package | quantity | location | notes         |
-|------------------------|-----------------|---------|----------|----------|---------------|
-| Holtek                 | HT42B534        | SOP 8   | Too many |          | USB->UART PoS |
+| vendor                 | part number     | package | quantity | location | notes                                                                             |
+|------------------------|-----------------|---------|----------|----------|-----------------------------------------------------------------------------------|
+| Holtek                 | HT42B534        | SOP 8   | Too many |          | USB->UART PoS                                                                     |
 | WCH                    | CH340E          |         | lots     | USB box  | https://datasheet.lcsc.com/lcsc/2305301024_WCH-Jiangsu-Qin-Heng-CH340E_C99652.pdf |
+| NEC                    | uPD8251AFC      | DIP     | 13       |          | USART                                                                             |
 
 # DC-DC/LDO/PMIC
 
