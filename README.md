@@ -23,7 +23,6 @@ I have a lot of junk and I need a list to track it so here we are.
 | Silicon Laborotatories | EFM32ZG222F32   | QFP 48  | 1        |          |               |
 | Silicon Laborotatories | EFM32ZG110F32   | QFN 24  | 1        |          |               |
 | Zilog                  | Z84C0020VEG     | PLCC 44 | 4        |          |               |
-| Zilog                  | Z84C9010VEG     | PLCC 84 | 4        |          | Z80 IO chip   |
 | WinChipHead            | CH552E          | MSOP 10 | 20       |          | 8051 + USB    |
 |                        |                 |         |          |          |               |
 | SigmaStar              | SSD210          | QFN68   |          |          |               |
@@ -62,6 +61,9 @@ I have a lot of junk and I need a list to track it so here we are.
 | Holtek                 | HT42B534        | SOP 8   | Too many |          | USB->UART PoS                                                                     |
 | WCH                    | CH340E          |         | lots     | USB box  | https://datasheet.lcsc.com/lcsc/2305301024_WCH-Jiangsu-Qin-Heng-CH340E_C99652.pdf |
 | NEC                    | uPD8251AFC      | DIP     | 13       |          | USART                                                                             |
+| Zilog                  | Z84C9010VEG     | PLCC 84 | 4        |          | Z80 IO chip                                                                       |
+| Zilog                  | z8523016vsc     | PLCC    | 2        | Box 1    | SCC                                                                               |
+
 
 # DC-DC/LDO/PMIC
 
@@ -104,21 +106,23 @@ I have a lot of junk and I need a list to track it so here we are.
 
 # Flash/EEPROM
 
-| vendor                 | part number           | package | quantity | location | notes           |
-|------------------------|-----------------------|---------|----------|----------|-----------------|
-| ST                     | M27C160-100F1         | DIP     | 11       |          | recycled        |
-| Longsys                | FS35ND01G-S1Y2QWFI000 | WSON 8  | 9        |          | 1GBit SPI NAND  |
-| Winbond                | 25q128jvsq            |         | lots     |          | 128mbit SPI NOR |
-| Winbond                | 25q128jvpm            | wson-8  | 10       |          | 128mbit SPI NOR |
-| Winbond                | 25q128fveg            | wson-8  | 8        |          | 128mbit SPI NOR |
-| SST/Microchip          | 39sf040 70-4c-phe     | DIP 40  | 8        |          |                 |
+| vendor                 | part number           | package | quantity | location | notes                 |
+|------------------------|-----------------------|---------|----------|----------|-----------------------|
+| ST                     | M27C160-100F1         | DIP     | 11       |          | recycled              |
+| Longsys                | FS35ND01G-S1Y2QWFI000 | WSON 8  | 9        |          | 1GBit SPI NAND        |
+| Winbond                | 25q128jvsq            |         | lots     |          | 128mbit SPI NOR       |
+| Winbond                | 25q128jvpm            | wson-8  | 10       |          | 128mbit SPI NOR       |
+| Winbond                | 25q128fveg            | wson-8  | 8        |          | 128mbit SPI NOR       |
+| SST/Microchip          | 39sf040 70-4c-phe     | DIP 40  | 8        |          |                       |
+| EON                    | en29f0021-70ji        | PLCC    | 2        | box 1    | Flash? check part num |
 
 # SRAM
 
 | vendor                 | part number           | package | quantity | location                     | notes           |
 |------------------------|-----------------------|---------|----------|------------------------------|-----------------|
-| Hitachi                |  HM62256LP-12         | DIP 28  | 13       |                              | 32Kx8           |
+| Hitachi                | HM62256LP-12          | DIP 28  | 13       |                              | 32Kx8           |
 | Dallas                 | DS1747W-120+          | DIP     | 1        | Brown bookcase, in black box | Timekeeper SRAM |
+| Motorola               | mcm6306dj15           | SOJ     | 12       | box 1                        | 32Kx8           |
 
 # Misc
 
