@@ -104,7 +104,9 @@ I have a lot of junk and I need a list to track it so here we are.
 |                        | USB-C break out |         | 3        | USB box  | https://www.amazon.co.jp/gp/product/B0978MK2R5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1 |
 |                        | mini usb        |         | too many | USB box  |               |
 
-# Flash/EEPROM
+# Memory
+
+## Flash/EEPROM
 
 | vendor                 | part number           | package | quantity | location | notes                 |
 |------------------------|-----------------------|---------|----------|----------|-----------------------|
@@ -116,7 +118,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | SST/Microchip          | 39sf040 70-4c-phe     | DIP 40  | 8        |          |                       |
 | EON                    | en29f0021-70ji        | PLCC    | 2        | box 1    | Flash? check part num |
 
-# SRAM
+## SRAM
 
 | vendor                 | part number           | package | quantity | location                     | notes           |
 |------------------------|-----------------------|---------|----------|------------------------------|-----------------|
@@ -196,6 +198,12 @@ I have a lot of junk and I need a list to track it so here we are.
 | ???                    | ???             | 4 pin can | 10       | box 1    | 8mhz 5v(?) osc                                                                    |
 | ???                    | ???             | 4 pin can | 10       | box 1    | 10mhz 5v(?) osc                                                                   |
 | Raltron                | c019025         | 4 pin can | 3        | box 1    | 100mhz 3.3v osc                                                                   |
+
+# Misc
+
+| vendor                 | part number     | package   | quantity | location | notes                                                                             |
+|------------------------|-----------------|-----------|----------|----------|-----------------------------------------------------------------------------------|
+| ??                     | 2.54mm jumper   |           | lots     | box 1    |                                                                                   |
 
 # Backlog
 
