@@ -108,9 +108,10 @@ I have a lot of junk and I need a list to track it so here we are.
 
 # SRAM
 
-| vendor                 | part number           | package | quantity | location | notes           |
-|------------------------|-----------------------|---------|----------|----------|-----------------|
-| Hitachi                |  HM62256LP-12         | DIP 28  | 13       |          | 32Kx8           |
+| vendor                 | part number           | package | quantity | location                     | notes           |
+|------------------------|-----------------------|---------|----------|------------------------------|-----------------|
+| Hitachi                |  HM62256LP-12         | DIP 28  | 13       |                              | 32Kx8           |
+| Dallas                 | DS1747W-120+          | DIP     | 1        | Brown bookcase, in black box | Timekeeper SRAM |
 
 # Misc
 
