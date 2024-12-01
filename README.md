@@ -203,10 +203,10 @@ I have a lot of junk and I need a list to track it so here we are.
 
 # Misc
 
-| vendor                 | part number     | package   | quantity | location | notes                                                                             |
-|------------------------|-----------------|-----------|----------|----------|-----------------------------------------------------------------------------------|
-| ??                     | 2.54mm jumper   |           | lots     | box 1    |                                                                                   |
-
+| vendor                 | part number     | package   | quantity | location    | notes                                                                             |
+|------------------------|-----------------|-----------|----------|-------------|-----------------------------------------------------------------------------------|
+| ??                     | 2.54mm jumper   |           | lots     | box 1       |                                                                                   |
+| ??                     | db15 on ribbon  | thing     | 1        | pikachu can |                                                                                   |
 # Backlog
 
 MMA7660FC - accelerometer
