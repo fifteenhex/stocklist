@@ -29,6 +29,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | SigmaStar              | SSD210          | QFN68   |          |             |               |
 | AMD                    | p8088           | DIP 40  | 2        |             | 8088          |
 | NEC                    | uPD8088D        | DIP 40  | 9        |             | 8088          |
+| raspberry pi           | pi pico         | module  | 2        | pikachu can | Cortex M0 x 2 |
 
 # SoM
 
