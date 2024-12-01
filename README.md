@@ -173,6 +173,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | Core                   | GR Peach          | Dev board  | 1            |                          | Renesas RZ1/A            |
 | waveshare              | RP2040 zero       |            | 2            |                          |                          |
 |                        |                   |            |              |                          |                          |
+| olimex                 | MOD-ENC644J600    | Module     | 1            | pikachu can              |                          |
 
 # Tools
 
