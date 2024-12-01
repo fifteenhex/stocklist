@@ -27,7 +27,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | WinChipHead            | CH552E          | MSOP 10 | 20       |             | 8051 + USB    |
 |                        |                 |         |          |             |               |
 | SigmaStar              | SSD210          | QFN68   |          |             |               |
-| AMD                    | p8088           | DIP 40  | 2        |             | 8088          |
+| AMD                    | p8088           | DIP 40  | 2        | pikachu can | 8088          |
 | NEC                    | uPD8088D        | DIP 40  | 9        |             | 8088          |
 | raspberry pi           | pi pico         | module  | 2        | pikachu can | Cortex M0 x 2 |
 | wdc                    | w65c02s6tpg-14  | DIP     | 1        | pikachu can | 6502          |
