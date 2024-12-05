@@ -217,6 +217,8 @@ I have a lot of junk and I need a list to track it so here we are.
 | samsung                | cl05b154k05nnnc | 0402      | ~1000    | A           | 0.15uF 16V X7R 0402                                                               |
 | samsung                | cl05a105kq5nnnc | 0402      | ~1000    | A           | 1uf 6.3v x5r 0404                                                                 |   
 | yageo                  | rx0402fr-07200kl| 0402      | ~1000    | A           | 200k 1% 1/16w 0402                                                                |
+| yageo                  | rc0402fr-071ml  | 0402      | ~1000    | A           | 1M 1% 1/16w 0402                                                                  |
+| yageo                  | rc0402jr-0722rl | 0402      | ~1000    | A           | 22ohm 55 1/16w 0402                                                               |
 
 # Backlog
 
