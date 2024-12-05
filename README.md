@@ -209,6 +209,15 @@ I have a lot of junk and I need a list to track it so here we are.
 |------------------------|-----------------|-----------|----------|-------------|-----------------------------------------------------------------------------------|
 | ??                     | 2.54mm jumper   |           | lots     | box 1       |                                                                                   |
 | ??                     | db15 on ribbon  | thing     | 1        | pikachu can |                                                                                   |
+
+# Passives
+
+| vendor                 | part number     | package   | quantity | location    | notes                                                                             |
+|------------------------|-----------------|-----------|----------|-------------|-----------------------------------------------------------------------------------|
+| samsung                | cl05b154k05nnnc | 0402      | ~1000    | A           | 0.15uF 16V X7R 0402                                                               |
+| samsung                | cl05a105kq5nnnc | 0402      | ~1000    | A           | 1uf 6.3v x5r 0404                                                                 |   
+| yageo                  | rx0402fr-07200kl| 0402      | ~1000    | A           | 200k 1% 1/16w 0402                                                                |
+
 # Backlog
 
 MMA7660FC - accelerometer
