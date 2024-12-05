@@ -31,6 +31,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | NEC                    | uPD8088D        | DIP 40  | 9        |             | 8088          |
 | raspberry pi           | pi pico         | module  | 2        | pikachu can | Cortex M0 x 2 |
 | wdc                    | w65c02s6tpg-14  | DIP     | 1        | pikachu can | 6502          |
+| hisilicon              | hi3518erncv300  | QFN     | 10       | A           | Cortex A7 SoC |
 
 # SoM
 
@@ -219,6 +220,9 @@ I have a lot of junk and I need a list to track it so here we are.
 | yageo                  | rx0402fr-07200kl| 0402      | ~1000    | A           | 200k 1% 1/16w 0402                                                                |
 | yageo                  | rc0402fr-071ml  | 0402      | ~1000    | A           | 1M 1% 1/16w 0402                                                                  |
 | yageo                  | rc0402jr-0722rl | 0402      | ~1000    | A           | 22ohm 55 1/16w 0402                                                               |
+| yageo                  | rc0402fr-07510kl| 0402      | ~1000    | A           | 510k 1% 1/16w 0402                                                                |
+| yageo                  | rc0402fr-07390rl| 0402      | ~1000    | A           | 390ohm 1% 1/16w 0402                                                              |
+
 
 # Backlog
 
