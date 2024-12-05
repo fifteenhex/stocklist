@@ -188,6 +188,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | WCH                              | WCH-LinkE-R0-1v3.FP|            | 1            |                       | WCH RISC-V debugger                             |
 | muselab                          | nanoDLA v1.3       | object     | 1            | pink chupa chups ball | pulseview LA dongle                             |
 | ????                             | analyzer 24MHz 8CH | object     | 1            | pink chupa chups ball | pulseview LA dongle                             |
+| segger                           | jlink edu mini     | thing      | 1            | pink chupa chups ball | JTAG                                            |
 |                                  |                    |            |              |                       |                                                 |
 |                                  |                    |            |              |                       |                                                 |
 
