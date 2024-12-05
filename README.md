@@ -222,6 +222,10 @@ I have a lot of junk and I need a list to track it so here we are.
 | yageo                  | rc0402jr-0722rl | 0402      | ~1000    | A           | 22ohm 55 1/16w 0402                                                               |
 | yageo                  | rc0402fr-07510kl| 0402      | ~1000    | A           | 510k 1% 1/16w 0402                                                                |
 | yageo                  | rc0402fr-07390rl| 0402      | ~1000    | A           | 390ohm 1% 1/16w 0402                                                              |
+| yageo                  | rc0402jr-07110kl| 0402      | ~1000    | A           | 110K 5% 1/16w 0402                                                                |
+|                        | 0603waf1001t5e  | 0603      | ~400     | A           | 0603 1K                                                                           |
+|                        | 0603waf4701t5e  | 0603      | ~400     | A           | 0603 4.7k                                                                         |
+|                        | rc0603jr-07110rl| 0603      | ~300     | A           | 0603 110ohm                                                                       |
 
 
 # Backlog
