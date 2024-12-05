@@ -16,6 +16,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | Motorola               | MC68VZ328AG     | QFP     | 2        |             | DragonBall VZ |
 | Motorola               | MC68SZ328       | BGA     | 4        |             |               |
 | Motorola               | MC68060RC50     | PGA     | 4        | pikachu can | 71e41j        |
+| Motorola               | MC68EC060RC75   | PGA     | 1        |             |               |
 | NXP                    | LPC1114FN28     | DIP 28  | 3        |             |               |
 | NXP                    | LPC812M101J     | SOP20?  | 4        |             |               |
 | Silicon Laboratories   | EFM32GG842F1024 | QFP 64  | 2        |             |               |
@@ -178,13 +179,14 @@ I have a lot of junk and I need a list to track it so here we are.
 
 # Tools
 
-| vendor                           | part number        | package    | quantity     | location | notes                                           |
-|----------------------------------|--------------------|------------|--------------|----------|-------------------------------------------------|
-| Dangerous Prototypes             | open logic sniffer |            | 1            |          | Logic analyzer, input buffer is probably broked |
-| Dangerous Prototypes             | bus blaster v3c    |            | 1            |          | FT2232 JTAG, ktlink buffer flashed              |
-| [150w electronic load][150wload] |                    |            | 1            |          |                                                 |
-| WCH                              | WCH-LinkE-R0-1v3.FP|            | 1            |          | WCH RISC-V debugger                             |
-|                                  |                    |            |              |          |                                                 |
+| vendor                           | part number        | package    | quantity     | location              | notes                                           |
+|----------------------------------|--------------------|------------|--------------|-----------------------|-------------------------------------------------|
+| Dangerous Prototypes             | open logic sniffer |            | 1            |                       | Logic analyzer, input buffer is probably broked |
+| Dangerous Prototypes             | bus blaster v3c    |            | 1            |                       | FT2232 JTAG, ktlink buffer flashed              |
+| [150w electronic load][150wload] |                    |            | 1            |                       |                                                 |
+| WCH                              | WCH-LinkE-R0-1v3.FP|            | 1            |                       | WCH RISC-V debugger                             |
+| muselab                          | nanoDLA v1.3       | object     | 1            | pink chupa chups ball | pulseview LA dongle                                                |
+|                                  |                    |            |              |                       |                                                 |
 
 [150wload]: https://www.diymore.cc/products/150w-ldm-digital-electronic-load-discharge-capacity-tester-usb-voltmeter-ammeter?_pos=3&_sid=4049f80b9&_ss=r "150w load"
 
