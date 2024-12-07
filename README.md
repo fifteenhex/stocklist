@@ -76,6 +76,12 @@ I have a lot of junk and I need a list to track it so here we are.
 | Crystal                | CS8900A-IQ3Z    | QFP     | 3        |          |                                                                                   |
 
 
+## USB
+
+| vendor                 | part number     | package | quantity | location | notes                                                                             |
+|------------------------|-----------------|---------|----------|----------|-----------------------------------------------------------------------------------|
+| Will Semiconductor     | WUSB3801        | DFN     | 15       |          |                                                                                   |
+
 # DC-DC/LDO/PMIC
 
 | vendor                 | part number     | package | quantity | location | notes         |
