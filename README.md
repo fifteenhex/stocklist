@@ -69,6 +69,12 @@ I have a lot of junk and I need a list to track it so here we are.
 | Zilog                  | Z84C9010VEG     | PLCC 84 | 4        |          | Z80 IO chip                                                                       |
 | Zilog                  | z8523016vsc     | PLCC    | 2        | Box 1    | SCC                                                                               |
 
+## Ethernet
+
+| vendor                 | part number     | package | quantity | location | notes                                                                             |
+|------------------------|-----------------|---------|----------|----------|-----------------------------------------------------------------------------------|
+| Crystal                | CS8900A-IQ3Z    | QFP     | 3        |          |                                                                                   |
+
 
 # DC-DC/LDO/PMIC
 
