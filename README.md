@@ -128,6 +128,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | Winbond                | 25q128fveg            | wson-8  | 8        |          | 128mbit SPI NOR       |
 | SST/Microchip          | 39sf040 70-4c-phe     | DIP 40  | 8        |          |                       |
 | EON                    | en29f0021-70ji        | PLCC    | 2        | box 1    | Flash? check part num |
+| Microchip              | 24lc256               | DIP 8   | 4        | box 1    | i2c eeprom            |
 
 ## SRAM
 
