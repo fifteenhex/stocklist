@@ -90,8 +90,8 @@ I have a lot of junk and I need a list to track it so here we are.
 |	Qorvo                  | ACT8865QI305-T  | TQFN 32 | 2        |          |               |         |
 | Everanalog             | EA3036C         |         | LOTS     |          | 3 x DC-DC     |         | 
 | Everanalog             | EA3056          |         | 100      |          |               |         |
-| Silergy                | SY8205FCC       |         | lots     |          | step down     |         |
-| Injoinic               | ip6103          |         | 30       |          | pmic          |         |
+| Silergy                | SY8205FCC       |         | lots     | dc-dc bag| step down     |         |
+| Injoinic               | ip6103          |         | 30       | dc-dc bag| pmic          |         |
 |                        | lxdc55faaa-203  |         | 1        |          | dc-dc         |         |
 | TI                     | tps63001drcr    | QFN     | 4        | dc-dc bag| buck-boost    | digikey |
 | TI                     | lmz20502silt    | LGA     | 5        | dc-dc bag|               | digikey |
@@ -115,7 +115,7 @@ I have a lot of junk and I need a list to track it so here we are.
 
 | vendor                 | part number     | package | quantity | location | notes         |
 |------------------------|-----------------|---------|----------|----------|---------------|
-|	Silergy                | SY6288AAAAC     | sot23-6 | 50?      |          | active high   |
+|	Silergy                | SY6288AAAAC     | sot23-6 | 50?      | dc-dc bag| active high   |
 | Microchip              | MIC2505-1YM     |         | 4        |          |               |
 
 # RTC
@@ -259,6 +259,11 @@ I have a lot of junk and I need a list to track it so here we are.
 |                        | 0603waf4701t5e      | 0603      | ~400     | A           | 0603 4.7k                                                                         |
 |                        | rc0603jr-07110rl    | 0603      | ~300     | A           | 0603 110ohm                                                                       |
 
+## super cap
+
+| vendor                 | part number         | package   | quantity | location    | notes                                                                             |
+|------------------------|---------------------|-----------|----------|-------------|-----------------------------------------------------------------------------------|
+| elpa                   |                     | TH        | 2        | passives box| 5.5v 0.1f                                                                         |
 
 # Backlog
 
