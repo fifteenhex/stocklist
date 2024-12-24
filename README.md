@@ -100,6 +100,9 @@ I have a lot of junk and I need a list to track it so here we are.
 | ablic                  | s-812c50ay-b-g  |         | 6        | dc-dc bag| 5v 70ma LDO   | akizuki |
 | MICRONE                | me6206a33xg     | sot     | 2        | dc-dc bag| 3.3v 300mA LDO| aitendo |
 | torex                  | xc6206p332      | sot     | LOTS     | dc-dc bag| 3.3v LDO      | taobao  |
+| microchip              | mcp1640t        | sot     | 2        | dc-dc bag| boost         |         |
+| microchip              | tc962epa        | dip8    | 4        | dc-dc bag| hv dc-dc conv |         |
+| murata                 | okl-t/3-w5n-c   | LGA     | 2        | dc-dc bag| dc-dc module  | akizuki |
 
 # PSU
 
