@@ -191,7 +191,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | waveshare              | RP2040 zero       |            | 2            |                          |                          |
 |                        |                   |            |              |                          |                          |
 | olimex                 | MOD-ENC644J600    | Module     | 1            | pikachu can              |                          |
-| ???                    | digispark at85    | module     | 2            | pikachu can              | Clone                    |
+| ???                    | digispark at85    | module     | 1            | pikachu can              | Clone                    |
 
 # Tools
 
