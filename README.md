@@ -52,6 +52,7 @@ I have a lot of junk and I need a list to track it so here we are.
 |                        | 74ahc1g125w5     | sot32-5 |           | logic    |               |           |
 | TI                     | sn74hc574n       | DIP     | 2         | logic    |               | eleshop   |
 | TI                     | sn74hc161n       | DIP     | 8         | logic    | counter       | chip1stop |
+| TI                     | sn74hc245n       | DIP     | 3         | logic    | bus trans     | kashinoki |
 
 # FPGA/CPLD
 
