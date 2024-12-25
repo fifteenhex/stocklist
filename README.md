@@ -43,14 +43,15 @@ I have a lot of junk and I need a list to track it so here we are.
 
 # Logic
 
-| vendor                 | part number      | package | quantity  | location | notes         | source  |
-|------------------------|------------------|---------|-----------|----------|---------------|---------|
-| Toshiba                | 74hc595          | DIP     | 4         |          |               |         |
-| Toshiba                | 74h273ap         | DIP     | 4         | logic    |               | akizuki |
-| TI                     | sn74lvc1g00dbvr  | sot23-5 | 15        |          |               |         | 
-| TI                     | sn74lvc1g240dbvr | sot23-5 | 10?       |          |               |         |
-|                        | 74ahc1g125w5     | sot32-5 |           | logic    |               |         |
-| TI                     | sn74hc574n       | DIP     | 2         | logic    |               | eleshop |
+| vendor                 | part number      | package | quantity  | location | notes         | source     |
+|------------------------|------------------|---------|-----------|----------|---------------|-----------|
+| Toshiba                | 74hc595          | DIP     | 4         |          |               |           |
+| Toshiba                | 74h273ap         | DIP     | 4         | logic    |               | akizuki   |
+| TI                     | sn74lvc1g00dbvr  | sot23-5 | 15        |          |               |           | 
+| TI                     | sn74lvc1g240dbvr | sot23-5 | 10?       |          |               |           |
+|                        | 74ahc1g125w5     | sot32-5 |           | logic    |               |           |
+| TI                     | sn74hc574n       | DIP     | 2         | logic    |               | eleshop   |
+| TI                     | sn74hc161n       | DIP     | 8         | logic    | counter       | chip1stop |
 
 # FPGA/CPLD
 
