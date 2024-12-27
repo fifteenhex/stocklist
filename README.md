@@ -4,6 +4,8 @@ I have a lot of junk and I need a list to track it so here we are.
 
 # CPU/MCU/SoC
 
+## Chips
+
 | vendor                 | part number     | package | quantity | location    | notes         | source      |
 |------------------------|-----------------|---------|----------|-------------|---------------|-------------|
 | Atmel                  | ATMega16u4-aur  | TQFP 44 | 2        |             |               |             |
@@ -44,13 +46,15 @@ I have a lot of junk and I need a list to track it so here we are.
 | NEC                    | udp8255ac-2     | DIP 40  | 2        | 8088 stuff  | PIO           | kashinoki   |
 | TMP                    | tmp8255ap       | DIP 28  | 2        | 8088 stuff  | PIC           | kashinoki   |
 
-# SoM
+## SoM
 
 | vendor                 | part number     | package | quantity | location | notes         |
 |------------------------|-----------------|---------|----------|----------|---------------|
 | Wireless tag           | IDO-SOM2D01-V1  | LGA     | 1        |          |               |
 
 # Logic
+
+## Standard
 
 | vendor                 | part number      | package | quantity  | location | notes         | source     |
 |------------------------|------------------|---------|-----------|----------|---------------|-----------|
@@ -63,7 +67,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | TI                     | sn74hc161n       | DIP     | 8         | logic    | counter       | chip1stop |
 | TI                     | sn74hc245n       | DIP     | 3         | logic    | bus trans     | kashinoki |
 
-# FPGA/CPLD
+## FPGA/CPLD
 
 | vendor                 | part number      | package | quantity | location | notes         |
 |------------------------|------------------|---------|----------|----------|---------------|
