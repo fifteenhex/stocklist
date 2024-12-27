@@ -204,6 +204,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | vendor                 | part number       | package    | quantity     | location                 | notes                    |
 |------------------------|-------------------|------------|--------------|--------------------------|--------------------------|
 | adafruit               | trinket 3v        | mobule     | 1            | unsorted modules         | attiny usb breakout      |
+| adafruit               | trinket 5v        | mobule     | 1            | unsorted modules         | attiny usb breakout      |
 | CJMCU                  | CJMCU-2557        | module     | 1            |                          | BQ25570 energy harvester |
 | CJMCU                  | CJMCU-25504       | module     | 1            | unsorted modules         | BQ25504 energy harvester |
 | espressif              | esp32-wrover-b    | lga module | 5            |                          | ESP32                    |
@@ -236,6 +237,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | muselab                | icesugar nano     | module     | 2            | unsorted modules box     | ice fpga breakout        |
 | muselab                | usb-hs-bridge v1.0| module     | 1            | unsorted modules box     | CH347 breakout           |
 |                        | ice40_fpga_pico   | module     | 1            | unsorted modules box     | ice fpga breakout        |
+|                        | flappyboard       | module     | 3            | unsorted modules box     | ch32v203g6 breakout      |
 
 # Tools
 
@@ -300,11 +302,17 @@ I have a lot of junk and I need a list to track it so here we are.
 |------------------------|---------------------|-----------|----------|-------------|-----------------------------------------------------------------------------------|
 | elpa                   |                     | TH        | 2        | passives box| 5.5v 0.1f                                                                         |
 
+# Driver
+
+| vendor                           | part number        | package    | quantity     | location              | notes                                           | source  | 
+|----------------------------------|--------------------|------------|--------------|-----------------------|-------------------------------------------------|---------|
+| mitsubishi                       |m54564p             | DIP        | 2            | incoming box          | source darlington array                         | akizuki |
+
 # Backlog
 
-MMA7660FC - accelerometer
-RTL8309N - 8 port ethernet switch
-STM32L011D3P6 - stm32 mcu
-MMBT3904 (1AM) - NPN transistor
-RT9525 - Lipo charger with power path
+- MMA7660FC - accelerometer
+- RTL8309N - 8 port ethernet switch
+- STM32L011D3P6 - stm32 mcu
+- MMBT3904 (1AM) - NPN transistor
+- RT9525 - Lipo charger with power path
 
