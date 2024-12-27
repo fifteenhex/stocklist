@@ -140,6 +140,8 @@ I have a lot of junk and I need a list to track it so here we are.
 
 # Connectors
 
+## USB
+
 | vendor                 | part number     | package | quantity | location | notes                                                                                           |
 |------------------------|-----------------|---------|----------|----------|-------------------------------------------------------------------------------------------------|
 |                        | TYPE-C-31-M-12  |         | 50       |          | USB-C 12 pin                                                                                    |
