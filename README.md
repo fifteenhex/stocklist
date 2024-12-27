@@ -189,6 +189,7 @@ I have a lot of junk and I need a list to track it so here we are.
 |------------------------|-------------------|------------|--------------|--------------------------|--------------------------|
 | adafruit               | trinket 3v        | mobule     | 1            | unsorted modules         | attiny usb breakout      |
 | CJMCU                  | CJMCU-2557        | module     | 1            |                          | BQ25570 energy harvester |
+| CJMCU                  | CJMCU-25504       | module     | 1            | unsorted modules         | BQ25504 energy harvester |
 | espressif              | esp32-wrover-b    | lga module | 5            |                          | ESP32                    |
 | Sipeed                 | Dan Dock          |            | 1            |                          | K210                     |
 | Sipeed                 | K210 module       |            | 1 (2?)       |                          | K210                     |
@@ -213,10 +214,10 @@ I have a lot of junk and I need a list to track it so here we are.
 | TTGO                   | t18_3.0           | Dev board  | 1            |                          | ESP32                    |
 | XMOS                   | startkit          | Dev board  | 1            | Brown bookcase, white box|                          |
 | Core                   | GR Peach          | Dev board  | 1            |                          | Renesas RZ1/A            |
-| waveshare              | RP2040 zero       |            | 2            |  unsorted modules box    |                          |
-|                        |                   |            |              |                          |                          |
+| waveshare              | RP2040 zero       |            | 2            | unsorted modules box     |                          |
 | olimex                 | MOD-ENC644J600    | Module     | 1            | pikachu can              |                          |
 | ???                    | digispark at85    | module     | 1            | pikachu can              | Clone                    |
+| muselab                | icesugar nano     | module     | 2            | unsorted modules box     | ice fpga breakout        |
 
 # Tools
 
