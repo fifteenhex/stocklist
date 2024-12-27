@@ -187,6 +187,7 @@ I have a lot of junk and I need a list to track it so here we are.
 
 | vendor                 | part number       | package    | quantity     | location                 | notes                    |
 |------------------------|-------------------|------------|--------------|--------------------------|--------------------------|
+| adafruit               | trinket 3v        | mobule     | 1            | unsorted modules         | attiny usb breakout      |
 | CJMCU                  | CJMCU-2557        | module     | 1            |                          | BQ25570 energy harvester |
 | espressif              | esp32-wrover-b    | lga module | 5            |                          | ESP32                    |
 | Sipeed                 | Dan Dock          |            | 1            |                          | K210                     |
@@ -212,7 +213,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | TTGO                   | t18_3.0           | Dev board  | 1            |                          | ESP32                    |
 | XMOS                   | startkit          | Dev board  | 1            | Brown bookcase, white box|                          |
 | Core                   | GR Peach          | Dev board  | 1            |                          | Renesas RZ1/A            |
-| waveshare              | RP2040 zero       |            | 2            |                          |                          |
+| waveshare              | RP2040 zero       |            | 2            |  unsorted modules box    |                          |
 |                        |                   |            |              |                          |                          |
 | olimex                 | MOD-ENC644J600    | Module     | 1            | pikachu can              |                          |
 | ???                    | digispark at85    | module     | 1            | pikachu can              | Clone                    |
@@ -230,7 +231,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | segger                           | jlink edu mini     | thing      | 1            | pink chupa chups ball | JTAG                                            |         |
 |                                  |                    |            |              |                       |                                                 |         |
 |                                  |                    |            |              |                       |                                                 |         |
-| Adafruit                         | ft232h             | thing      | 1            |                       | ft232h breakout                                 | akizuki |
+| Adafruit                         | ft232h             | thing      | 1            | unsorted modules box  | ft232h breakout                                 | akizuki |
 
 [150wload]: https://www.diymore.cc/products/150w-ldm-digital-electronic-load-discharge-capacity-tester-usb-voltmeter-ammeter?_pos=3&_sid=4049f80b9&_ss=r "150w load"
 
