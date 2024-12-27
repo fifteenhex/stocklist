@@ -28,12 +28,21 @@ I have a lot of junk and I need a list to track it so here we are.
 | WinChipHead            | CH552E          | MSOP 10 | 20       |             | 8051 + USB    |             |
 |                        |                 |         |          |             |               |             |
 | SigmaStar              | SSD210          | QFN68   |          |             |               |             |
-| AMD                    | p8088           | DIP 40  | 2        | pikachu can | 8088          |             |
-| NEC                    | uPD8088D        | DIP 40  | 9        |             | 8088          |             |
-| Intel                  | P8088           | DIP 40  | 2        | pikachu can | 8088          | wakamatsu   |
 | raspberry pi           | pi pico         | module  | 2        | pikachu can | Cortex M0 x 2 |             |
 | wdc                    | w65c02s6tpg-14  | DIP     | 1        | pikachu can | 6502          |             |
 | hisilicon              | hi3518erncv300  | QFN     | 10       | A           | Cortex A7 SoC |             |
+
+## 8086/8086 chips
+
+| vendor                 | part number     | package | quantity | location    | notes         | source      |
+|------------------------|-----------------|---------|----------|-------------|---------------|-------------|
+| NEC                    | uPD8088D        | DIP 40  | 9        |             | 8088          | eleshop     |
+| Intel                  | P8088           | DIP 40  | 2        | pikachu can | 8088          | wakamatsu   |
+| AMD                    | p8088           | DIP 40  | 2        | pikachu can | 8088          | eleshop     |
+| NEC                    | d8253           | DIP 26  | 2        | 8088 stuff  | PIT           | kashinoki   |
+| NEC                    | udp8237ac5      | DIP 40  | 2        | 8088 stuff  | DMAC          | kashinoki   |
+| NEC                    | udp8255ac-2     | DIP 40  | 2        | 8088 stuff  | PIO           | kashinoki   |
+| TMP                    | tmp8255ap       | DIP 28  | 2        | 8088 stuff  | PIC           | kashinoki   |
 
 # SoM
 
