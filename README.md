@@ -146,6 +146,16 @@ I have a lot of junk and I need a list to track it so here we are.
 |                        | USB-C break out |         | ?0?      | USB box  | https://www.amazon.co.jp/gp/product/B0978MK2R5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1 |
 |                        | mini usb        |         | too many | USB box  |                                                                                                 |
 
+## IC Sockets 
+
+| vendor                 | part number         | package | quantity | location | notes                                                                                           | source    |
+|------------------------|---------------------|---------|----------|----------|-------------------------------------------------------------------------------------------------|-----------|
+|                        | DIP 4 Round narrow  |         | 3        | tube box |                                                                                                 | kashinoki |
+|                        | DIP 20 Round narrow |         | 3        | tube box |                                                                                                 | kashinoki |
+|                        | DIP 28 Round narrow |         | 4        | tube box |                                                                                                 | kashinoki |
+|                        | DIP 32 Round wide   |         | 3        | tube box |                                                                                                 | kashinoki |
+|                        | DIP 40 Round wide   |         | 3        | tube box |                                                                                                 | kashinoki | 
+
 # Memory
 
 ## Flash/EEPROM
