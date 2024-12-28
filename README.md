@@ -41,7 +41,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | NEC                    | uPD8088D        | DIP 40  | 9        |             | 8088          | eleshop     |
 | Intel                  | P8088           | DIP 40  | 2        | pikachu can | 8088          | wakamatsu   |
 | AMD                    | p8088           | DIP 40  | 2        | pikachu can | 8088          | eleshop     |
-| NEC                    | d8253           | DIP 24  | 2        | 8088 stuff  | PIT           | kashinoki   |
+| NEC                    | upd8253c-2      | DIP 24  | 2        | 8088 stuff  | PIT           | kashinoki   |
 | NEC                    | udp8237ac5      | DIP 40  | 2        | 8088 stuff  | DMAC          | kashinoki   |
 | NEC                    | udp8255ac-2     | DIP 40  | 2        | 8088 stuff  | PIO           | kashinoki   |
 | TMP                    | tmp8255ap       | DIP 28  | 2        | 8088 stuff  | PIC           | kashinoki   |
