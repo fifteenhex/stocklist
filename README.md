@@ -101,7 +101,7 @@ I have a lot of junk and I need a list to track it so here we are.
 |------------------------|-----------------|---------|----------|----------|-----------------------------------------------------------------------------------|
 | Will Semiconductor     | WUSB3801        | DFN     | 15       |          |                                                                                   |
 
-# DC-DC/LDO/PMIC
+# DC-DC/LDO/PMIC/Charger/Load Switch
 
 | vendor                 | part number     | package | quantity | location     | notes         | source  |
 |------------------------|-----------------|---------|----------|--------------|---------------|---------|
@@ -123,19 +123,24 @@ I have a lot of junk and I need a list to track it so here we are.
 | microchip              | tc962epa        | dip8    | 4        | dc-dc etc box| hv dc-dc conv |         |
 | murata                 | okl-t/3-w5n-c   | LGA     | 2        | dc-dc etc box| dc-dc module  | akizuki |
 
-# PSU
+## Charger
 
-| vendor                 | part number     | package | quantity | location                    | notes         |
-|------------------------|-----------------|---------|----------|-----------------------------|---------------|
-| cosel                  | PBA50F-36       | block   | 2        | Brown bookcase, brown boxes | 36V mains PSU |
+| vendor                 | part number     | package | quantity | location     | notes         | source |
+|------------------------|-----------------|---------|----------|--------------|---------------|--------|
+|	richtek                | RT9525          | QFN     | 9        | dc-dc etc box| lipo charger  | taobao |
 
-
-# Load switch
+## Load switch
 
 | vendor                 | part number     | package | quantity | location     | notes         |
 |------------------------|-----------------|---------|----------|--------------|---------------|
 |	Silergy                | SY6288AAAAC     | sot23-6 | 50?      | dc-dc etc box| active high   |
 | Microchip              | MIC2505-1YM     |         | 4        |              |               |
+
+# PSU
+
+| vendor                 | part number     | package | quantity | location                    | notes         |
+|------------------------|-----------------|---------|----------|-----------------------------|---------------|
+| cosel                  | PBA50F-36       | block   | 2        | Brown bookcase, brown boxes | 36V mains PSU |
 
 # RTC
 
@@ -321,5 +326,4 @@ I have a lot of junk and I need a list to track it so here we are.
 - RTL8309N - 8 port ethernet switch
 - STM32L011D3P6 - stm32 mcu
 - MMBT3904 (1AM) - NPN transistor
-- RT9525 - Lipo charger with power path
 
