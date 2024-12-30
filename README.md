@@ -72,13 +72,18 @@ I have a lot of junk and I need a list to track it so here we are.
 
 | vendor                 | part number      | package | quantity  | location | notes              | source    |
 |------------------------|------------------|---------|-----------|----------|--------------------|-----------|
-|                        | 74ahc1g125w5     | sot23   | 5         | logic    | 3 state bus buffer | akizuki   |
-|                        | 74ahc1g125w5     | sot23   | 5         | logic    | 3 state bus buffer | akizuki   |
-|                        | 74ahc1g125w5     | sot23   | 5         | logic    | 3 state bus buffer | akizuki   |
-|                        | 74ahc1g00w5      | sot23   | 5         | logic    | 2 input AND        | akizuki   |
-|                        | 74ahc1g00w5      | sot23   | 5         | logic    | 2 input AND        | akizuki   |
+|                        | 74ahc1g00w5      | sot23   | 5         | logic    | 2 input NAND       | akizuki   |
+|                        | 74ahc1g00w5      | sot23   | 5         | logic    | 2 input NAND       | akizuki   |
+|                        | 74ahc1g02w5      | sot23   | 5         | logic    | 2 input NOR        | akizuki   |
+|                        | 74ahc1g02w5      | sot23   | 5         | logic    | 2 input NOR        | akizuki   |
+|                        | 74ahc1g08w5      | sot23   | 5         | logic    | 2 input AND        | akizuki   |
+|                        | 74ahc1g08w5      | sot23   | 5         | logic    | 2 input AND        | akizuki   |
 |                        | 74ahc1g32w5      | sot23   | 5         | logic    | 2 input OR         | akizuki   |
 |                        | 74ahc1g32w5      | sot23   | 5         | logic    | 2 input OR         | akizuki   |
+|                        | 74ahc1g125w5     | sot23   | 5         | logic    | 3 state bus buffer | akizuki   |
+|                        | 74ahc1g125w5     | sot23   | 5         | logic    | 3 state bus buffer | akizuki   |
+|                        | 74ahc1g125w5     | sot23   | 5         | logic    | 3 state bus buffer | akizuki   |
+
 
 ## FPGA/CPLD
 
