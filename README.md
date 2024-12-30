@@ -131,10 +131,11 @@ I have a lot of junk and I need a list to track it so here we are.
 
 ## Load switch
 
-| vendor                 | part number     | package | quantity | location     | notes         |
-|------------------------|-----------------|---------|----------|--------------|---------------|
-|	Silergy                | SY6288AAAAC     | sot23-6 | 50?      | dc-dc etc box| active high   |
-| Microchip              | MIC2505-1YM     |         | 4        |              |               |
+| vendor                 | part number     | package | quantity | location     | notes         | source |
+|------------------------|-----------------|---------|----------|--------------|---------------|--------|
+|	Silergy                | SY6288AAAAC     | sot23-6 | 50?      | dc-dc etc box| active high   | taobao |
+| Silery                 | SY6283A         | DFN     | 20?      | dc-dc etc box|               | taobao |
+| Microchip              | MIC2505-1YM     |         | 4        |              |               |        |
 
 # PSU
 
