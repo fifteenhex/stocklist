@@ -57,7 +57,7 @@ I have a lot of junk and I need a list to track it so here we are.
 
 ## Standard
 
-| vendor                 | part number      | package | quantity  | location | notes         | source     |
+| vendor                 | part number      | package | quantity  | location | notes         | source    |
 |------------------------|------------------|---------|-----------|----------|---------------|-----------|
 | Toshiba                | 74hc595          | DIP     | 4         |          |               |           |
 | Toshiba                | 74h273ap         | DIP     | 4         | logic    |               | akizuki   |
@@ -67,6 +67,12 @@ I have a lot of junk and I need a list to track it so here we are.
 | TI                     | sn74hc574n       | DIP     | 2         | logic    |               | eleshop   |
 | TI                     | sn74hc161n       | DIP     | 8         | logic    | counter       | chip1stop |
 | TI                     | sn74hc245n       | DIP     | 3         | logic    | bus trans     | kashinoki |
+
+## Single Gate 
+
+| vendor                 | part number      | package | quantity  | location | notes              | source    |
+|------------------------|------------------|---------|-----------|----------|--------------------|-----------|
+|                        | 74hc1g125w5      | sot23   | 5         | logic    | 3 state bus buffer | akizuki   |
 
 ## FPGA/CPLD
 
@@ -131,11 +137,12 @@ I have a lot of junk and I need a list to track it so here we are.
 
 ## Load switch
 
-| vendor                 | part number     | package | quantity | location     | notes         | source |
-|------------------------|-----------------|---------|----------|--------------|---------------|--------|
-|	Silergy                | SY6288AAAAC     | sot23-6 | 50?      | dc-dc etc box| active high   | taobao |
-| Silery                 | SY6283A         | DFN     | 20?      | dc-dc etc box|               | taobao |
-| Microchip              | MIC2505-1YM     |         | 4        |              |               |        |
+| vendor                 | part number     | package | quantity | location      | notes         | source |
+|------------------------|-----------------|---------|----------|---------------|---------------|--------|
+|	Silergy                | SY6288AAAAC     | sot23-6 | 50?      | dc-dc etc box | active high   | taobao |
+| Silergy                | SY6283A         | DFN     | 20?      | dc-dc etc box |               | taobao |
+| Silergy                | SY6283DRC       | DFN     | 40       | dc-dc etc box |               | taobao |
+| Microchip              | MIC2505-1YM     |         | 3        | dc-dc etc box |               |        |
 
 # PSU
 
