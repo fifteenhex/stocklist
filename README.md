@@ -200,6 +200,12 @@ I have a lot of junk and I need a list to track it so here we are.
 | ??                     | SVR05           | SOT23-6  | LOTS!    |          | ESD diode pack|
 |                        |                 |          |          |          |               |
 
+## LEDS
+
+| vendor                 | part number     | package  | quantity | location     | notes                             | source |
+|------------------------|-----------------|----------|----------|--------------|-----------------------------------|--------|
+| kingbright             | kcsa56-123      | LGA      | 10       | incoming box | 14x8mm 7 seg, green, common anode |        |
+
 # Dev board/module
 
 | vendor                 | part number       | package    | quantity     | location                 | notes                    |
