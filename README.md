@@ -103,25 +103,25 @@ I have a lot of junk and I need a list to track it so here we are.
 
 # DC-DC/LDO/PMIC
 
-| vendor                 | part number     | package | quantity | location | notes         | source  |
-|------------------------|-----------------|---------|----------|----------|---------------|---------|
-|	Qorvo                  | ACT8865QI305-T  | TQFN 32 | 2        |          |               |         |
-| Everanalog             | EA3036C         |         | LOTS     |          | 3 x DC-DC     |         | 
-| Everanalog             | EA3056          |         | 100      |          |               |         |
-| Silergy                | SY8205FCC       |         | lots     | dc-dc bag| step down     |         |
-| richtech               | RT8059gj5       | sot 23  | lots     | dc-dc bag| buck          | taobao  |
-| Injoinic               | ip6103          |         | 30       | dc-dc bag| pmic          |         |
-|                        | lxdc55faaa-203  |         | 1        |          | dc-dc         |         |
-| TI                     | tps63001drcr    | QFN     | 4        | dc-dc bag| buck-boost    | digikey |
-| TI                     | lmz20502silt    | LGA     | 5        | dc-dc bag|               | digikey |
-| TI                     | lmz10503tze-adj | xxx     | 1        | dc-dc bag|               | digikey |
-| ablic                  | s-812c33ay-b-g  |         | 5        | dc-dc bag| 3.3v 50mA LDO | akizuki |
-| ablic                  | s-812c50ay-b-g  |         | 6        | dc-dc bag| 5v 70ma LDO   | akizuki |
-| MICRONE                | me6206a33xg     | sot     | 2        | dc-dc bag| 3.3v 300mA LDO| aitendo |
-| torex                  | xc6206p332      | sot     | LOTS     | dc-dc bag| 3.3v LDO      | taobao  |
-| microchip              | mcp1640t        | sot     | 2        | dc-dc bag| boost         |         |
-| microchip              | tc962epa        | dip8    | 4        | dc-dc bag| hv dc-dc conv |         |
-| murata                 | okl-t/3-w5n-c   | LGA     | 2        | dc-dc bag| dc-dc module  | akizuki |
+| vendor                 | part number     | package | quantity | location     | notes         | source  |
+|------------------------|-----------------|---------|----------|--------------|---------------|---------|
+|	Qorvo                  | ACT8865QI305-T  | TQFN 32 | 2        |              |               |         |
+| Everanalog             | EA3036C         |         | LOTS     |              | 3 x DC-DC     |         | 
+| Everanalog             | EA3056          |         | 100      |              |               |         |
+| Silergy                | SY8205FCC       |         | lots     | dc-dc etc box| step down     |         |
+| richtech               | RT8059gj5       | sot 23  | lots     | dc-dc etc box| buck          | taobao  |
+| Injoinic               | ip6103          |         | 30       | dc-dc etc box| pmic          |         |
+|                        | lxdc55faaa-203  |         | 1        |              | dc-dc         |         |
+| TI                     | tps63001drcr    | QFN     | 4        | dc-dc etc box| buck-boost    | digikey |
+| TI                     | lmz20502silt    | LGA     | 5        | dc-dc etc box|               | digikey |
+| TI                     | lmz10503tze-adj | xxx     | 1        | dc-dc etc box|               | digikey |
+| ablic                  | s-812c33ay-b-g  |         | 5        | dc-dc etc box| 3.3v 50mA LDO | akizuki |
+| ablic                  | s-812c50ay-b-g  |         | 6        | dc-dc etc box| 5v 70ma LDO   | akizuki |
+| MICRONE                | me6206a33xg     | sot     | 2        | dc-dc etc box| 3.3v 300mA LDO| aitendo |
+| torex                  | xc6206p332      | sot     | LOTS     | dc-dc etc box| 3.3v LDO      | taobao  |
+| microchip              | mcp1640t        | sot     | 2        | dc-dc etc box| boost         |         |
+| microchip              | tc962epa        | dip8    | 4        | dc-dc etc box| hv dc-dc conv |         |
+| murata                 | okl-t/3-w5n-c   | LGA     | 2        | dc-dc etc box| dc-dc module  | akizuki |
 
 # PSU
 
@@ -132,10 +132,10 @@ I have a lot of junk and I need a list to track it so here we are.
 
 # Load switch
 
-| vendor                 | part number     | package | quantity | location | notes         |
-|------------------------|-----------------|---------|----------|----------|---------------|
-|	Silergy                | SY6288AAAAC     | sot23-6 | 50?      | dc-dc bag| active high   |
-| Microchip              | MIC2505-1YM     |         | 4        |          |               |
+| vendor                 | part number     | package | quantity | location     | notes         |
+|------------------------|-----------------|---------|----------|--------------|---------------|
+|	Silergy                | SY6288AAAAC     | sot23-6 | 50?      | dc-dc etc box| active high   |
+| Microchip              | MIC2505-1YM     |         | 4        |              |               |
 
 # RTC
 
