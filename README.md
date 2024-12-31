@@ -94,6 +94,12 @@ I have a lot of junk and I need a list to track it so here we are.
 | Lattice                | ICE40LP384-SG32  | QFN 32  | 9?       |          |               |
 |                        |                  |         |          |          |               |
 
+## PLD 
+
+| vendor                 | part number      | package | quantity | location  | notes         | source    |
+|------------------------|------------------|---------|----------|-----------|---------------|-----------|
+| Microchip              | ATF16V8B-15PU    | DIP 20  | 16       | tubes box |               | chip1stop |
+
 # Interface
 
 | vendor                 | part number     | package | quantity | location | notes                                                                             |
