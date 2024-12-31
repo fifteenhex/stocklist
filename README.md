@@ -224,9 +224,9 @@ I have a lot of junk and I need a list to track it so here we are.
 
 ## LEDS
 
-| vendor                 | part number     | package  | quantity | location     | notes                             | source |
-|------------------------|-----------------|----------|----------|--------------|-----------------------------------|--------|
-| kingbright             | kcsa56-123      | LGA      | 10       | incoming box | 14x8mm 7 seg, green, common anode |        |
+| vendor                 | part number     | package  | quantity | location     | notes                             | source  |
+|------------------------|-----------------|----------|----------|--------------|-----------------------------------|---------|
+| kingbright             | kcsa56-123      | LGA      | 8        | incoming box | 14x8mm 7 seg, green, common anode | eleshop |
 
 # Dev board/module
 
