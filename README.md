@@ -186,7 +186,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | vendor                 | part number         | package | quantity | location | notes                                                                                           | source    |
 |------------------------|---------------------|---------|----------|----------|-------------------------------------------------------------------------------------------------|-----------|
 |                        | DIP 4 Round narrow  |         | 3        | tube box |                                                                                                 | kashinoki |
-|                        | DIP 20 Round narrow |         | 3        | tube box |                                                                                                 | kashinoki |
+|                        | DIP 20 Round narrow |         | 1?       | tube box |                                                                                                 | kashinoki |
 |                        | DIP 28 Round narrow |         | 4        | tube box |                                                                                                 | kashinoki |
 |                        | DIP 32 Round wide   |         | 3        | tube box |                                                                                                 | kashinoki |
 |                        | DIP 40 Round wide   |         | 3        | tube box |                                                                                                 | kashinoki | 
