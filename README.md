@@ -335,7 +335,8 @@ I have a lot of junk and I need a list to track it so here we are.
 
 | vendor                           | part number        | package    | quantity     | location              | notes                                           | source  | 
 |----------------------------------|--------------------|------------|--------------|-----------------------|-------------------------------------------------|---------|
-| mitsubishi                       |m54564p             | DIP        | 2            | incoming box          | source darlington array                         | akizuki |
+| mitsubishi                       | m54564p            | DIP        | 2            | incoming box          | source darlington array                         | akizuki |
+|                                  | uln2803g           | DIP 18     | 3            | incoming box          | sink darlington array                           | akizuki |
 
 # Backlog
 
