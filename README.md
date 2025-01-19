@@ -253,6 +253,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | Beagle                 | BeagleBone White  |            | 1            |                          |                          |
 | Beagle                 | PocketBeagle      |            | 3 (1 broked) |                          |                          |
 | ST                     | STM32F4 discovery |            | 1            |                          |                          |
+| ST                     | NUCLEO-U5A5ZJ-Q   | Dev board  | 1            | A & F sticker            |                          |
 | TI                     | CC3000BOOST       |            | 1            |                          |                          |
 | TI                     | EK-LM4F120XL      | Dev board  | 1            | Brown bookcase, black box|                          |
 | Olimex                 | AM3352-SOM-EVB    |            | 1            |                          |                          |
