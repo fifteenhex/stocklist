@@ -292,13 +292,6 @@ I have a lot of junk and I need a list to track it so here we are.
 
 [150wload]: https://www.diymore.cc/products/150w-ldm-digital-electronic-load-discharge-capacity-tester-usb-voltmeter-ammeter?_pos=3&_sid=4049f80b9&_ss=r "150w load"
 
-
-# VFD
-
-| vendor                           | part number                     | package    | quantity     | location              | notes                                           |
-|----------------------------------|---------------------------------|------------|--------------|-----------------------|-------------------------------------------------|
-|                                  | noritake vfd with usb interface |            | 2            | Old skool display box |                                                 |
-
 # Oscillator / xtal
 
 | vendor                 | part number     | package   | quantity | location | notes                                                                             |
@@ -344,6 +337,15 @@ I have a lot of junk and I need a list to track it so here we are.
 |----------------------------------|--------------------|------------|--------------|-----------------------|-------------------------------------------------|---------|
 | mitsubishi                       | m54564p            | DIP        | 2            | incoming box          | source darlington array                         | akizuki |
 |                                  | uln2803g           | DIP 18     | 3            | incoming box          | sink darlington array                           | akizuki |
+
+
+# Display
+
+## VFD
+
+| vendor                           | part number                     | package    | quantity     | location              | notes                                           |
+|----------------------------------|---------------------------------|------------|--------------|-----------------------|-------------------------------------------------|
+|                                  | noritake vfd with usb interface |            | 2            | Old skool display box |                                                 |
 
 # Backlog
 
