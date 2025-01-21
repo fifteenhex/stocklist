@@ -341,6 +341,12 @@ I have a lot of junk and I need a list to track it so here we are.
 
 # Display
 
+## LCD
+
+| vendor                           | part number         | package    | quantity     | location              | notes                                           | source    | 
+|----------------------------------|---------------------|------------|--------------|-----------------------|-------------------------------------------------|-----------|
+| opensmart                        | 2.0 inch tft module | module     | 3            | display box           | ili9225 3.3v 8080 interface lcd                 | aliexpres |
+
 ## VFD
 
 | vendor                           | part number                     | package    | quantity     | location              | notes                                           |
