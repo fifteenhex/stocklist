@@ -272,7 +272,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | ???                    | digispark at85    | module     | 1            | pikachu can              | Clone                    |
 | muselab                | icesugar nano     | module     | 2            | unsorted modules box     | ice fpga breakout        |
 | muselab                | usb-hs-bridge v1.0| module     | 1            | unsorted modules box     | CH347 breakout           |
-|                        | ice40_fpga_pico   | module     | 1            | unsorted modules box     | ice fpga breakout        |
+|                        | ice40_fpga_pico   | module     | 1            | FPGA box                 | ice fpga breakout        |
 |                        | flappyboard       | module     | 3            | unsorted modules box     | ch32v203g6 breakout      |
 
 # Tools
