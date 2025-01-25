@@ -57,13 +57,20 @@ I have a lot of junk and I need a list to track it so here we are.
 
 ## Standard
 
-| vendor                 | part number      | package | quantity  | location | notes         | source    |
-|------------------------|------------------|---------|-----------|----------|---------------|-----------|
-| Toshiba                | 74hc595          | DIP     | 4         | logic    |               |           |
-| Toshiba                | 74h273ap         | DIP     | 4         | logic    |               | akizuki   |
-| TI                     | sn74hc574n       | DIP     | 2         | logic    |               | eleshop   |
-| TI                     | sn74hc161n       | DIP     | 8         | logic    | counter       | chip1stop |
-| TI                     | sn74hc245n       | DIP     | 3         | logic    | bus trans     | kashinoki |
+| vendor                 | part number      | package | quantity  | location | notes                     | source    |
+|------------------------|------------------|---------|-----------|----------|---------------------------|-----------|
+| Toshiba                | tc4511bp         | DIP16   | 3         | logic    | BCD-to-7-Segment Decoder  | akizuki   |
+| Toshiba                | tc74hc74ap       | DIP14   | 3         | logic    | Dual D-Type Flip-Flop     | akizuki   |
+| Toshiba                | tc74hc138ap      | DIP16   | 10        | logic    | 3-to-8 Line Decoder       | akizuki   |
+| Toshiba                | tc74hc541ap      | DIP20   | 10        | logic    | octal buffer              | akizuki   |
+| Toshiba                | 74lcx541ft(aj)   | SSOP    | 10        | logic    | octal buffer              | akizuki   |
+| Toshiba                | 74hc595          | DIP     | 4         | logic    |                           |           |
+| Toshiba                | 74h273ap         | DIP     | 4         | logic    |                           | akizuki   |
+| TI                     | sn74hc574n       | DIP     | 2         | logic    |                           | eleshop   |
+| TI                     | sn74hc161n       | DIP     | 8         | logic    | counter                   | chip1stop |
+| TI                     | sn74hc245n       | DIP     | 3         | logic    | bus trans                 | kashinoki |
+| TI                     | sn74hc148n       | DIP16   | 3         | logic    | 8-to-3 Line               | akizuki   |
+| TI                     | sn74hc259n       | DIP16   | 2         | logic    | 8-Bit Addressable Latches | akizuki   |
 
 ## Single Gate 
 
