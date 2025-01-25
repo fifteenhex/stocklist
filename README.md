@@ -71,6 +71,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | TI                     | sn74hc245n       | DIP     | 3         | logic    | bus trans                 | kashinoki |
 | TI                     | sn74hc148n       | DIP16   | 3         | logic    | 8-to-3 Line               | akizuki   |
 | TI                     | sn74hc259n       | DIP16   | 2         | logic    | 8-Bit Addressable Latches | akizuki   |
+| Renesas                | hd74lvc541atell  | SSOP    | 10        | logic    | octal buffer              | akizuki   |
 
 ## Single Gate 
 
