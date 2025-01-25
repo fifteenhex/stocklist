@@ -57,21 +57,22 @@ I have a lot of junk and I need a list to track it so here we are.
 
 ## Standard
 
-| vendor    | part number        | package | quantity | location | notes                     | source    | datasheet                                                                                    |
-|-----------|--------------------|---------|----------|----------|---------------------------|-----------|----------------------------------------------------------------------------------------------|
-| Toshiba   | tc4511bp           | DIP16   | 3        | logic    | BCD-to-7-Segment Decoder  | akizuki   |                                                                                              |
-| Toshiba   | tc74hc74ap         | DIP14   | 3        | logic    | Dual D-Type Flip-Flop     | akizuki   |                                                                                              |
-| Toshiba   | tc74hc138ap        | DIP16   | 10       | logic    | 3-to-8 Line Decoder       | akizuki   |                                                                                              |
-| Toshiba   | tc74hc541ap        | DIP20   | 10       | logic    | octal buffer              | akizuki   |                                                                                              |
-| Toshiba   | 74lcx541ft(aj)     | SSOP    | 10       | logic    | octal buffer              | akizuki   |                                                                                              |
-| Toshiba   | 74hc595            | DIP     | 4        | logic    |                           |           |                                                                                              |
-| Toshiba   | 74h273ap           | DIP     | 4        | logic    |                           | akizuki   |                                                                                              |
-| TI        | sn74hc574n         | DIP     | 2        | logic    |                           | eleshop   | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74hc574.pdf)                                 |
-| TI        | sn74hc161n         | DIP     | 8        | logic    | counter                   | chip1stop | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74hc161.pdf)                                 |
-| TI        | sn74hc245n         | DIP     | 3        | logic    | bus trans                 | kashinoki | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74hc245.pdf)                                 |
-| TI        | sn74hc148n         | DIP16   | 3        | logic    | 8-to-3 Line               | akizuki   | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74hc148.pdf)                                 |
-| TI        | sn74hc259n         | DIP16   | 2        | logic    | 8-Bit Addressable Latches | akizuki   | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74hc259.pdf)                                 |
-| Renesas   | hd74lvc541atell    | SSOP    | 10       | logic    | octal buffer              | akizuki   |                                                                                              |
+| vendor    | part number        | package  | quantity | location | notes                                         | source    | datasheet                                                                                |
+|-----------|--------------------|----------|----------|----------|-----------------------------------------------|-----------|------------------------------------------------------------------------------------------|
+| Toshiba   | tc4511bp           | DIP16    | 3        | logic    | BCD-to-7-Segment Decoder                      | akizuki   |                                                                                          |
+| Toshiba   | tc74hc74ap         | DIP14    | 3        | logic    | Dual D-Type Flip-Flop                         | akizuki   |                                                                                          |
+| Toshiba   | tc74hc138ap        | DIP16    | 10       | logic    | 3-to-8 Line Decoder                           | akizuki   |                                                                                          |
+| Toshiba   | tc74hc541ap        | DIP20    | 10       | logic    | Octal Buffer/Line Driver with 3-State Outputs | akizuki   |                                                                                          |
+| Toshiba   | 74lcx541ft(aj)     | SSOP     | 10       | logic    | Octal Buffer/Line Driver with 3-State Outputs | akizuki   |                                                                                          |
+| Toshiba   | 74hc595            | DIP16    | 4        | logic    | 8-Bit Shift Register with Output Latches      |           |                                                                                          |
+| Toshiba   | 74h273ap           | DIP20    | 4        | logic    | Octal D-Type Flip-Flop with Reset             | akizuki   |                                                                                          |
+| TI        | sn74hc574n         | DIP20    | 2        | logic    | Octal D-Type Flip-Flop with 3-State Outputs   | eleshop   | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74hc574.pdf)                             |
+| TI        | sn74hc161n         | DIP16    | 8        | logic    | Synchronous 4-Bit Binary Counter              | chip1stop | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74hc161.pdf)                             |
+| TI        | sn74hc245n         | DIP20    | 3        | logic    | Octal Bus Transceiver with 3-State Outputs    | kashinoki | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74hc245.pdf)                             |
+| TI        | sn74hc148n         | DIP16    | 3        | logic    | 8-to-3 Line Encoder                           | akizuki   | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74hc148.pdf)                             |
+| TI        | sn74hc259n         | DIP16    | 2        | logic    | 8-Bit Addressable Latch                       | akizuki   | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74hc259.pdf)                             |
+| Renesas   | hd74lvc541atell    | SSOP     | 10       | logic    | Octal Buffer/Line Driver with 3-State Outputs | akizuki   |                                                                                          |
+
 
 ## Single Gate 
 
