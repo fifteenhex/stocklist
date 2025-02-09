@@ -290,6 +290,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | muselab                | usb-hs-bridge v1.0| module     | 1            | unsorted modules box     | CH347 breakout           |
 |                        | ice40_fpga_pico   | module     | 1            | FPGA box                 | ice fpga breakout        |
 |                        | flappyboard       | module     | 3            | unsorted modules box     | ch32v203g6 breakout      |
+|                        | ch376evt_v1.1     | module     | 2            |                          |                          |
 
 # Tools
 
