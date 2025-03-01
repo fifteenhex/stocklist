@@ -17,6 +17,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | Motorola               | MC68SEC000      | QFP 64  | ~15      |             |               |             |
 | Motorola               | MC68VZ328AG     | QFP     | 2        |             | DragonBall VZ |             |
 | Motorola               | MC68SZ328       | BGA     | 4        |             |               |             |
+| Motorola               | XC68LC040RC25B  | PGA     | 1        |             | 02e23g        |             |
 | Motorola               | MC68060RC50     | PGA     | 4        | pikachu can | 71e41j        |             |
 | Motorola               | MC68EC060RC75   | PGA     | 1        |             |               |             |
 | NXP                    | LPC1114FN28     | DIP 28  | 3        |             |               |             |
