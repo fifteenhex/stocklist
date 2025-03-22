@@ -123,7 +123,8 @@ I have a lot of junk and I need a list to track it so here we are.
 
 | vendor                 | part number         | package | quantity | location     | notes                                                                                           | source    |
 |------------------------|---------------------|---------|----------|--------------|-------------------------------------------------------------------------------------------------|-----------|
-| microchip              | mcp23017-e/sp       |         | 1        | io expanders |                                                                                                 |           |
+| microchip              | mcp23017-e/sp       |         | 1        | io expanders | i2c                                                                                             |           |
+| microchip              | mcp23s18            |         | 3        | io expanders | 16-Bit SPI I/O Expander with Open-Drain Output                                                  |           |
 
 ## Ethernet
 
