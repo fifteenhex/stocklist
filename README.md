@@ -119,6 +119,12 @@ I have a lot of junk and I need a list to track it so here we are.
 | Zilog                  | Z84C9010VEG     | PLCC 84 | 4        |          | Z80 IO chip                                                                       |
 | Zilog                  | z8523016vsc     | PLCC    | 2        | Box 1    | SCC                                                                               |
 
+## IO Expander
+
+| vendor                 | part number         | package | quantity | location     | notes                                                                                           | source    |
+|------------------------|---------------------|---------|----------|--------------|-------------------------------------------------------------------------------------------------|-----------|
+| microchip              | mcp23017-e/sp       |         | 1        | io expanders |                                                                                                 |           |
+
 ## Ethernet
 
 | vendor                 | part number     | package | quantity | location | notes                                                                             |
