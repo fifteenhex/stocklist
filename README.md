@@ -124,7 +124,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | vendor                 | part number         | package | quantity | location     | notes                                                                                           | source    |
 |------------------------|---------------------|---------|----------|--------------|-------------------------------------------------------------------------------------------------|-----------|
 | microchip              | mcp23017-e/sp       |         | 1        | io expanders | i2c                                                                                             |           |
-| microchip              | mcp23s017-e/so      |         | 3        | io expanders | 16-Bit SPI I/O Expander with Serial Interface                                                   |           |
+| microchip              | mcp23s17-e/so       |         | 3        | io expanders | 16-Bit SPI I/O Expander with Serial Interface                                                   |           |
 | microchip              | mcp23s18-e/so       |         | 3        | io expanders | 16-Bit SPI I/O Expander with Open-Drain Output                                                  |           |
 | texas instruments      | tca6424argjr        |         | 3        | io expanders | 24-bit translating 1.65- to 5.5-V I2C/SMBus I/O expander                                        |           |
 
