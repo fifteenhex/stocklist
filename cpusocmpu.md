@@ -14,8 +14,10 @@
 | Motorola               | MC68VZ328AG     | QFP     | 2        |             | DragonBall VZ |             |
 | Motorola               | MC68SZ328       | BGA     | 4        |             |               |             |
 | Motorola               | XC68LC040RC25B  | PGA     | 1        |             | 02e23g        |             |
-| Motorola               | MC68060RC50     | PGA     | 4        | pikachu can | 71e41j        |             |
+| Motorola               | MC68060RC50     | PGA     | 3        | pikachu can | 71e41j        |             |
+| Motorola               | MC68060RC50     | PGA     | 1        | A4000       | 71e41j (rev6) |             |
 | Motorola               | MC68EC060RC75   | PGA     | 1        |             |               |             |
+| Motorola               | XC68060RC50     | PGA     | 1        |             | 01f43g        |             |
 | NXP                    | LPC1114FN28     | DIP 28  | 3        |             |               |             |
 | NXP                    | LPC812M101J     | SOP20?  | 4        |             |               |             |
 | Silicon Laboratories   | EFM32GG842F1024 | QFP 64  | 2        |             |               |             |
