@@ -2,7 +2,8 @@
 
 I have a lot of junk and I need a list to track it so here we are.
 
-[CPUs, SoCs, Microcontrollers etc](cpusocmpu.md)
+- [CPUs, SoCs, Microcontrollers etc](cpusocmpu.md)
+- [Old compooter parts](computers.md)
 
 ## SoM
 
