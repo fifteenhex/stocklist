@@ -10,8 +10,8 @@
 
 | vendor    | name              | quantity | location       | notes                                                                                         | source         | datasheet |
 |-----------|-------------------|----------|----------------|-----------------------------------------------------------------------------------------------|----------------|-----------|
-| Commodore | Amiga A600        | 1        |                |                                                                                               |                |           |
-
+| Commodore | Amiga A600        | 1        |                |                                                                                               | ebay uk        |           |
+| Commodore | Amiga A4000       | 1        | in da house!!1 |                                                                                               | yahoo auctions |           |
 
 ## Apple (yuk!)
 
