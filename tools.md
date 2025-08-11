@@ -20,3 +20,9 @@
 | vendor                           | part number        | package        | quantity     | location              | notes                                           | source  | 
 |----------------------------------|--------------------|----------------|--------------|-----------------------|-------------------------------------------------|---------|
 | xgecu                            | tl866II plus       | physical thing | 1            |                       | EPROM/EEPROM etc programmer                     |         |
+
+## Eraser
+
+| vendor                           | part number        | package        | quantity     | location              | notes                                           | source  | 
+|----------------------------------|--------------------|----------------|--------------|-----------------------|-------------------------------------------------|---------|
+| phonesoap                        | no.500-2           | physical thing | 1            |                       | Works as an eprom erase                         |         |
