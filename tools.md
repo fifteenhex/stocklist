@@ -26,3 +26,11 @@
 | vendor                           | part number        | package        | quantity     | location              | notes                                           | source  | 
 |----------------------------------|--------------------|----------------|--------------|-----------------------|-------------------------------------------------|---------|
 | phonesoap                        | no.500-2           | physical thing | 1            |                       | Works as an eprom erase                         |         |
+
+## Bench instruments 
+
+| vendor                           | part number        | package        | quantity     | location              | notes                                           | source  | 
+|----------------------------------|--------------------|----------------|--------------|-----------------------|-------------------------------------------------|---------|
+| agilent                          | E3640A             | physical thing | 1            |                       |                                                 |         |
+| agilent                          | E3644A             | physical thing | 1            |                       |                                                 |         |
+
