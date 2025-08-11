@@ -20,6 +20,8 @@
 | Apple     | LC475 logic board | 1        | brown bookcase | recapped, unstable after overclocking to 33mhz, still unstable after reverting. Bad new caps? | mercari        |           |
 | Apple     | LC475 logic board | 1        |                | recapped, very damaged audio section, fixed enough to bong                                    | mercari        |           |
 | Apple     | LC475 logic board | 1        |                | recapped, seems to be working fine                                                            | yahoo auctions |           |
+| Apple     | LC475             | 1        |                | recapped, seems to be working fine, 128MB ram                                                 | yahoo auctions?|           |
+| Apple     | LC475             | 1        |                | recapped, seems to be working fine, 128MB ram                                                 | mercari?       |           |
 
 ## Sharp
 
