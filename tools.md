@@ -14,3 +14,9 @@
 | Adafruit                         | ft232h             | thing      | 1            | unsorted modules box  | ft232h breakout                                 | akizuki |
 
 [150wload]: https://www.diymore.cc/products/150w-ldm-digital-electronic-load-discharge-capacity-tester-usb-voltmeter-ammeter?_pos=3&_sid=4049f80b9&_ss=r "150w load"
+
+## Programmers
+
+| vendor                           | part number        | package        | quantity     | location              | notes                                           | source  | 
+|----------------------------------|--------------------|----------------|--------------|-----------------------|-------------------------------------------------|---------|
+| xgecu                            | tl866II plus       | physical thing | 1            |                       | EPROM/EEPROM etc programmer                     |         |
