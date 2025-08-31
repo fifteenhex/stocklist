@@ -31,6 +31,7 @@ I have a lot of junk and I need a list to track it so here we are.
 | TI        | sn74hc148n         | DIP16    | 3        | logic    | 8-to-3 Line Encoder                           | akizuki   | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74hc148.pdf)                             |
 | TI        | sn74hc259n         | DIP16    | 2        | logic    | 8-Bit Addressable Latch                       | akizuki   | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74hc259.pdf)                             |
 | Renesas   | hd74lvc541atell    | SSOP     | 10       | logic    | Octal Buffer/Line Driver with 3-State Outputs | akizuki   |                                                                                          |
+| TI        | sn7407dr           |          | 10       | logic    |                                               | chip1stop |                                                                                          |
 
 
 ## Single Gate 
