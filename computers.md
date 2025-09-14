@@ -30,6 +30,12 @@
 |-----------|-----------|----------|----------|------------------------------------------|----------------|-----------|
 | Sharp     | PC-G850   | 1        |          | screen ribbon heated to fix missing rows | mercari        |           |
 
+## SPARC
+
+| vendor    | name           | quantity | location | notes                                    | source         | datasheet |
+|-----------|----------------|----------|----------|------------------------------------------|----------------|-----------|
+| Fujitsu   | GP400S model 5 | 1        |          | Ultra5 with fujitsu branding             | yahoo auctions |           |
+
 ## PCI cards
 
 | vendor    | name      | quantity | location | notes                                    | source         | datasheet |
