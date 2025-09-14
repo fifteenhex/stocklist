@@ -29,3 +29,9 @@
 | vendor    | name      | quantity | location | notes                                    | source         | datasheet |
 |-----------|-----------|----------|----------|------------------------------------------|----------------|-----------|
 | Sharp     | PC-G850   | 1        |          | screen ribbon heated to fix missing rows | mercari        |           |
+
+## PCI cards
+
+| vendor    | name      | quantity | location | notes                                    | source         | datasheet |
+|-----------|-----------|----------|----------|------------------------------------------|----------------|-----------|
+| corega    | PCI-TL    | 1        |          | ne2000 pci rtl 8029as                    | mercari        |           |
