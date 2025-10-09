@@ -24,6 +24,12 @@
 | Apple     | LC475                         | 1        |                | recapped, seems to be working fine, 128MB ram                                                 | mercari?       |           |
 | Apple?    | Ethernet LC twisted pair card | 1        | brown bookcase | SONIC-T chip                                                                                  | yahoo actions? |           |
 
+## AVR32
+
+| vendor    | name      | quantity | location | notes                                    | source         | datasheet |
+|-----------|-----------|----------|----------|------------------------------------------|----------------|-----------|
+| atmel     | ngw100    | 1        |          | AVR32 dev board                          | yahoo auctions |           |
+
 ## Sharp
 
 | vendor    | name      | quantity | location | notes                                    | source         | datasheet |
