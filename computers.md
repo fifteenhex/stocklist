@@ -44,6 +44,7 @@
 
 ## PCI cards
 
-| vendor    | name      | quantity | location | notes                                    | source         | datasheet |
-|-----------|-----------|----------|----------|------------------------------------------|----------------|-----------|
-| corega    | PCI-TL    | 1        |          | ne2000 pci rtl 8029as                    | mercari        |           |
+| vendor    | name        | quantity | location | notes                                    | source         | datasheet |
+|-----------|-------------|----------|----------|------------------------------------------|----------------|-----------|
+| corega    | PCI-TL      | 2        |          | ne2000 pci rtl 8029as                    | mercari        |           |
+| buffalo   | LGY-PCI-TXD | 1        |          | ne2000 pci rtl 8029as                    |                |           |
