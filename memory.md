@@ -18,5 +18,6 @@
 | vendor                 | part number           | package | quantity | location                     | notes           |
 |------------------------|-----------------------|---------|----------|------------------------------|-----------------|
 | Hitachi                | HM62256LP-12          | DIP 28  | 13       |                              | 32Kx8           |
+| Hitachi                | HM62256LP-10          | DIP 28  | 13       |                              | 32Kx8           |
 | Dallas                 | DS1747W-120+          | DIP     | 1        | Brown bookcase, in black box | Timekeeper SRAM |
 | Motorola               | mcm6306dj15           | SOJ     | 12       | box 1                        | 32Kx8           |
