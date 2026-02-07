@@ -51,3 +51,9 @@
 | corega    | PCI-TL           | 2        |          | ne2000 pci rtl 8029as                    | mercari        |           |
 | buffalo   | LGY-PCI-TXD      | 1        |          |                                          |                |           |
 | 3dfx      | Voodoo 3 2000(?) | 1        |          |                                          |                |           |
+
+# Olde Ethernet
+
+| vendor    | name             | quantity | location | notes                                    | source         | datasheet |
+|-----------|------------------|----------|----------|------------------------------------------|----------------|-----------|
+| black box | Mini 10BT        | 1        |          | AUI transceiver                          | mercari        |           |
