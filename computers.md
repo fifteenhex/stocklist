@@ -2,9 +2,10 @@
 
 ## VME
 
-| vendor    | name      | quantity | location | notes | source         | datasheet |
-|-----------|-----------|----------|----------|-------|----------------|-----------|
-| AVAL data | AVME-352  | 4        |          |       | yahoo auctions |           |
+| vendor    | name         | quantity | location | notes | source            | datasheet |
+|-----------|--------------|----------|----------|-------|-------------------|-----------|
+| AVAL data | AVME-352     | 4        |          |       | yahoo auctions    |           |
+| Motorol   | MVME-147-013 | 1        |          |       | ebay 20 years ago |           |
 
 ## Amiga
 
