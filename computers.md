@@ -25,6 +25,7 @@
 | Apple     | LC475                         | 1        |                | recapped, seems to be working fine, 128MB ram                                                 | mercari?       |           |
 | Apple     | Quadra 800                    | 1        |                | fully working                                                                                 | mercari        |           |
 | Apple?    | Ethernet LC twisted pair card | 1        | brown bookcase | SONIC-T chip                                                                                  | yahoo actions? |           |
+| Radius    | Radius Precision Color 24Xp   | 1        | Quadra 800     | Graphics card                                                                                 | mercari        |           |
 
 ## AVR32
 
