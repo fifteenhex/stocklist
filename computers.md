@@ -33,6 +33,14 @@
 |-----------|-----------|----------|----------|------------------------------------------|----------------|-----------|
 | atmel     | ngw100    | 1        |          | AVR32 dev board                          | yahoo auctions |           |
 
+
+## Megadrive
+
+| vendor    | name                | quantity | location | notes                                    | source         | datasheet |
+|-----------|---------------------|----------|----------|------------------------------------------|----------------|-----------|
+| sega      | megadrive           | 1        |          | HAA-2510                                 | mercari        |           |
+| krikzz    | mega everdrive core | 1        |          |                                          | krikzz         |           |
+
 ## Sharp
 
 | vendor    | name      | quantity | location | notes                                    | source         | datasheet |
