@@ -4,7 +4,7 @@
 
 | name                                  | ISBN/something | Location | Notes | Source         |
 |---------------------------------------|--------------- |----------|-------|----------------|
-| Service manula A2000                  | PN-314135-01   |          |       | yahoo auctions |
+| Service manual A2000                  | PN-314135-01   |          |       | yahoo auctions |
 
 
 ## Intel/x86
