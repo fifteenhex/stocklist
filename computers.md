@@ -59,9 +59,13 @@
 
 | vendor    | name             | quantity | location | notes                                    | source         | datasheet |
 |-----------|------------------|----------|----------|------------------------------------------|----------------|-----------|
+| Adaptec   | AHA-2940AU       | 1        |          | SCSI controller                          | mercari        |           |
+| Adaptec   | AHA-2930CU       | 1        |          | SCSI controller                          | mercari        |           |
 | corega    | PCI-TL           | 2        |          | ne2000 pci rtl 8029as                    | mercari        |           |
 | buffalo   | LGY-PCI-TXD      | 1        |          |                                          |                |           |
+| elbox     | spider II usb    | 1        |          | came with a4000                          | yahoo auctions |           |
 | 3dfx      | Voodoo 3 2000(?) | 1        |          |                                          |                |           |
+| generic?  | radeon 9200      | 1        |          | 128mb                                    |                |           |
 
 # Olde Ethernet
 
