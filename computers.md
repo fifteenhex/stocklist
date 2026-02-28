@@ -72,3 +72,8 @@
 | vendor    | name             | quantity | location | notes                                    | source         | datasheet |
 |-----------|------------------|----------|----------|------------------------------------------|----------------|-----------|
 | black box | Mini 10BT        | 1        |          | AUI transceiver                          | mercari        |           |
+
+# PCs
+| vendor    | name             | quantity | location | notes                                    | source         | datasheet |
+|-----------|------------------|----------|----------|------------------------------------------|----------------|-----------|
+| MSI       | KA780G           | 1        |          | OMG THIS BOARD STINKS, AS IN IT SMELLS!  | mercari        |           |
