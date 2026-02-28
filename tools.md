@@ -34,3 +34,9 @@
 | agilent                          | E3640A             | physical thing | 1            |                       |                                                 |         |
 | agilent                          | E3644A             | physical thing | 1            |                       |                                                 |         |
 
+## Hand held meters
+
+| vendor                           | part number        | package        | quantity     | location              | notes                                           | source  | 
+|----------------------------------|--------------------|----------------|--------------|-----------------------|-------------------------------------------------|---------|
+| OWON                             | HDS272             | physical thing | 1            |                       |                                                 |         |
+
