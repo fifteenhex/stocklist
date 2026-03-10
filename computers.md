@@ -28,6 +28,8 @@
 | Apple     | Macintosh IIsi                | 1        |                |                                                                                               | yahoo actions  |           |
 | Apple?    | Ethernet LC twisted pair card | 1        | brown bookcase | SONIC-T chip                                                                                  | yahoo actions? |           |
 | Radius    | Radius Precision Color 24Xp   | 1        | Quadra 800     | Graphics card                                                                                 | mercari        |           |
+| asante    | mc3nb                         | 1        |                | LAN, rj45 + AUI                                                                               | yahoo actions  |           |
+
 
 ## AVR32
 
