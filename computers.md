@@ -56,6 +56,9 @@
 | vendor    | name             | quantity | location | notes                                    | source         | datasheet |
 |-----------|------------------|----------|----------|------------------------------------------|----------------|-----------|
 | SORD      | M68MX-41         | 1        |          |                                          | mercari        |           |
+| SORD      | MEM-256K         | 2        |          |                                          | mercari        |           |
+| SORD      | MEM-1M           | 1        |          |                                          | mercari        |           |
+
 
 ## SPARC
 
