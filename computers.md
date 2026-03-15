@@ -51,6 +51,12 @@
 |-----------|-----------|----------|----------|------------------------------------------|----------------|-----------|
 | Sharp     | PC-G850   | 1        |          | screen ribbon heated to fix missing rows | mercari        |           |
 
+## SORD 
+
+| vendor    | name             | quantity | location | notes                                    | source         | datasheet |
+|-----------|------------------|----------|----------|------------------------------------------|----------------|-----------|
+| SORD      | M68MX-41         | 1        |          |                                          | mercari        |           |
+
 ## SPARC
 
 | vendor    | name           | quantity | location | notes                                    | source         | datasheet |
