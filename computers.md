@@ -23,6 +23,7 @@
 | Apple     | LC475 logic board             | 1        |                | recapped, seems to be working fine                                                            | yahoo auctions |           |
 | Apple     | LC475                         | 1        |                | recapped, seems to be working fine, 128MB ram                                                 | yahoo auctions?|           |
 | Apple     | LC475                         | 1        |                | recapped, seems to be working fine, 128MB ram                                                 | mercari?       |           |
+| Apple     | Quadra 700                    | 1        |                | fully working                                                                                 | yahoo auctions |           |
 | Apple     | Quadra 800                    | 1        |                | fully working                                                                                 | mercari        |           |
 | Apple     | Macintosh IIsi                | 1        |                | recapped, PSU shat the bed and leaked all over MB, but MB is alive and kicking                | mercari        |           |
 | Apple     | Macintosh IIsi                | 1        |                |                                                                                               | yahoo actions  |           |
