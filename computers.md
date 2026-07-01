@@ -99,3 +99,7 @@
 | Zulu compact |                  |        1 | quadra 700 |                                          |                |           |
 | Zulu blaster |                  |        1 | dev lc475  |                                          |                |           |
 
+
+## TODO list
+
+Cavium thunder x server - 2
