@@ -64,9 +64,10 @@
 
 ## SPARC
 
-| vendor    | name           | quantity | location | notes                                    | source         | datasheet |
-|-----------|----------------|----------|----------|------------------------------------------|----------------|-----------|
-| Fujitsu   | GP400S model 5 | 1        |          | Ultra5 with fujitsu branding             | yahoo auctions |           |
+| vendor    | name           | quantity | location  | notes                                           | source         | datasheet |
+|-----------|----------------|----------|-----------|-------------------------------------------------|----------------|-----------|
+| Fujitsu   | GP400S model 5 | 1        |           | Ultra5 with fujitsu branding                    | yahoo auctions |           |
+| Sun       | LX 4/30        | 1        | the floor | PSU is borken but working, new NVRAM bat + xtal | mercari        |           |
 
 ## PCI cards
 
@@ -96,4 +97,5 @@
 | vendor       | name             | quantity | location   | notes                                    | source         | datasheet |
 |--------------|------------------|----------|------------|------------------------------------------|----------------|-----------|
 | Zulu compact |                  |        1 | quadra 700 |                                          |                |           |
+| Zulu blaster |                  |        1 | dev lc475  |                                          |                |           |
 
