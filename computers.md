@@ -2,10 +2,10 @@
 
 ## VME
 
-| vendor    | name         | quantity | location | notes | source            | datasheet |
-|-----------|--------------|----------|----------|-------|-------------------|-----------|
-| AVAL data | AVME-352     | 4        |          |       | yahoo auctions    |           |
-| Motorola  | MVME-147-013 | 1        |          |       | ebay 20 years ago |           |
+| vendor    | name         | quantity | location | notes | source            | datasheet | UUID |
+|-----------|--------------|----------|----------|-------|-------------------|-----------|------|
+| AVAL data | AVME-352     | 4        |          |       | yahoo auctions    |           |      |
+| Motorola  | MVME-147-013 | 1        |          |       | ebay 20 years ago |           |      |
 
 ## Amiga
 
