@@ -99,6 +99,11 @@
 | Zulu compact |                  |        1 | quadra 700 |                                          |                |           |
 | Zulu blaster |                  |        1 | dev lc475  |                                          |                |           |
 
+# Sony 
+
+| vendor       | name             | quantity | location   | notes                                    | source         | datasheet |
+|--------------|------------------|----------|------------|------------------------------------------|----------------|-----------|
+| Sony         | PEG-SJ33         |        2 |            |                                          |                |           |
 
 ## TODO list
 
