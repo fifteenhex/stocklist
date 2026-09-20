@@ -9,10 +9,13 @@
 
 ## Amiga
 
-| vendor    | name              | quantity | location       | notes                                                                                         | source         | datasheet |
-|-----------|-------------------|----------|----------------|-----------------------------------------------------------------------------------------------|----------------|-----------|
-| Commodore | Amiga A600        | 1        |                |                                                                                               | ebay uk        |           |
-| Commodore | Amiga A4000       | 1        | in da house!!1 |                                                                                               | yahoo auctions |           |
+| vendor    | name                 | quantity | location                     | notes                                                                                         | source         | datasheet |
+|-----------|----------------------|----------|------------------------------|-----------------------------------------------------------------------------------------------|----------------|-----------|
+| Commodore | Amiga A600           | 1        |                              |                                                                                               | ebay uk        |           |
+| Commodore | Amiga A4000          | 1        | in da house!!1               |                                                                                               | yahoo auctions |           |
+| Commodore | kickstart v40.68 set | 1        | silver bag "amiga chips" bag |                                                                                               | yahoo auctions |           |
+| Commodore | 390540-02            | 1        | silver bag "amiga chips" bag | 41-FAT GARY                                                                                   | yahoo auctions |           |
+| Commodore | 390539-11            | 1        | silver bag "amiga chips" bag | 45-SUPER BUSTER                                                                               | yahoo auctions |           |
 
 ## Apple (yuk!)
 
