@@ -74,15 +74,16 @@
 
 ## PCI cards
 
-| vendor    | name             | quantity | location | notes                                    | source         | datasheet |
-|-----------|------------------|----------|----------|------------------------------------------|----------------|-----------|
-| Adaptec   | AHA-2940AU       | 1        |          | SCSI controller                          | mercari        |           |
-| Adaptec   | AHA-2930CU       | 1        |          | SCSI controller                          | mercari        |           |
-| corega    | PCI-TL           | 2        |          | ne2000 pci rtl 8029as                    | mercari        |           |
-| buffalo   | LGY-PCI-TXD      | 1        |          |                                          |                |           |
-| elbox     | spider II usb    | 1        |          | came with a4000                          | yahoo auctions |           |
-| 3dfx      | Voodoo 3 2000(?) | 1        |          |                                          |                |           |
-| generic?  | radeon 9200      | 1        |          | 128mb                                    |                |           |
+| vendor   | name             | quantity | location | notes                                                                                                                                                                                                      | source         | datasheet | UUID                                 |
+|----------|------------------|----------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|-----------|--------------------------------------|
+| Adaptec  | AHA-2940AU       | 1        |          | SCSI controller                                                                                                                                                                                            | mercari        |           |                                      |
+| Adaptec  | AHA-2930CU       | 1        |          | SCSI controller                                                                                                                                                                                            | mercari        |           |                                      |
+| corega   | PCI-TL           | 2        |          | ne2000 pci rtl 8029as                                                                                                                                                                                      | mercari        |           |                                      |
+| buffalo  | LGY-PCI-TXD      | 1        |          |                                                                                                                                                                                                            |                |           |                                      |
+| elbox    | spider II usb    | 1        |          | came with a4000                                                                                                                                                                                            | yahoo auctions |           |                                      |
+| 3dfx     | Voodoo 3 2000(?) | 1        |          |                                                                                                                                                                                                            |                |           |                                      |
+| generic? | radeon 9200      | 1        |          | 128mb                                                                                                                                                                                                      |                |           |                                      |
+| Alibaba  | AS02MC04         | 1        |          | Alibaba Cloud FPGA card (R1291). PCIe x8 low profile, heatsink, SFP cage, 2x5 header. FRU PN R1291-F9003-02 REV 06, CLS PN R1291-G0006-02, 2020-07. [photos](photos/6c1dc72d-5ea0-4082-b440-1c18741cf2db/) |                |           | 6c1dc72d-5ea0-4082-b440-1c18741cf2db |
 
 # Olde Ethernet
 
