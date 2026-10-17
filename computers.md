@@ -85,6 +85,7 @@
 | generic?  | radeon 9200               | 1        |          | 128mb                                                                  |                |           |                                      |
 | Alibaba   | AS02MC04                  | 1        |          | Alibaba Cloud FPGA card, R1291-F9003-02 rev 06, PCIe x8 LP, SFP        |                |           | 6c1dc72d-5ea0-4082-b440-1c18741cf2db |
 | generic?  | Envy24HT-S 7.1 sound card | 1        |          | PCI, VIA VT1721 + VT1616 codec, WM8728 DAC, CS8415A, 2x optical, VER.A |                |           | d8839150-5359-4659-bc91-7d765901976c |
+| generic?  | Rage XL 8MB               | 1        |          | PCI, ATI Rage XL 215R3LASB41, 8MB EtronTech SDRAM, AM29F010 BIOS, VGA  |                |           | 5204ced0-3774-4172-9114-1d3ab3989b7b |
 
 # Olde Ethernet
 
