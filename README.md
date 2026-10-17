@@ -2,6 +2,8 @@
 
 I have a lot of junk and I need a list to track it so here we are.
 
+Items with a Data Matrix sticker have their UUID in the `UUID` column; photos of such items live in `photos/<uuid>/`.
+
 - [CPUs, SoCs, Microcontrollers etc](cpusocmpu.md)
 - [Old compooter parts](computers.md)
 - [Tools like programmers, debuggers](tools.md)
