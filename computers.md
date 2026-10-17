@@ -74,18 +74,19 @@
 
 ## PCI cards
 
-| vendor    | name                      | quantity | location | notes                                                                  | source         | datasheet | UUID                                 |
-|-----------|---------------------------|----------|----------|------------------------------------------------------------------------|----------------|-----------|--------------------------------------|
-| Adaptec   | AHA-2940AU                | 1        |          | SCSI controller                                                        | mercari        |           |                                      |
-| Adaptec   | AHA-2930CU                | 1        |          | SCSI controller                                                        | mercari        |           |                                      |
-| corega    | PCI-TL                    | 2        |          | ne2000 pci rtl 8029as                                                  | mercari        |           |                                      |
-| buffalo   | LGY-PCI-TXD               | 1        |          |                                                                        |                |           |                                      |
-| elbox     | spider II usb             | 1        |          | came with a4000                                                        | yahoo auctions |           |                                      |
-| 3dfx      | Voodoo 3 2000(?)          | 1        |          |                                                                        |                |           |                                      |
-| generic?  | radeon 9200               | 1        |          | 128mb                                                                  |                |           |                                      |
-| Alibaba   | AS02MC04                  | 1        |          | Alibaba Cloud FPGA card, R1291-F9003-02 rev 06, PCIe x8 LP, SFP        |                |           | 6c1dc72d-5ea0-4082-b440-1c18741cf2db |
-| generic?  | Envy24HT-S 7.1 sound card | 1        |          | PCI, VIA VT1721 + VT1616 codec, WM8728 DAC, CS8415A, 2x optical, VER.A |                |           | d8839150-5359-4659-bc91-7d765901976c |
-| generic?  | Rage XL 8MB               | 1        |          | PCI, ATI Rage XL 215R3LASB41, 8MB EtronTech SDRAM, AM29F010 BIOS, VGA  |                |           | 5204ced0-3774-4172-9114-1d3ab3989b7b |
+| vendor       | name                      | quantity | location | notes                                                                  | source         | datasheet | UUID                                 |
+|--------------|---------------------------|----------|----------|------------------------------------------------------------------------|----------------|-----------|--------------------------------------|
+| Adaptec      | AHA-2940AU                | 1        |          | SCSI controller                                                        | mercari        |           | c94507ea-ff74-43f0-84ae-cbc03c26a26c |
+| Adaptec      | AHA-2930CU                | 1        |          | SCSI controller                                                        | mercari        |           | bdf7bac5-1e1d-4751-897f-2b89476592f5 |
+| corega       | PCI-TL                    | 2        |          | ne2000 pci rtl 8029as                                                  | mercari        |           |                                      |
+| buffalo      | LGY-PCI-TXD               | 1        |          |                                                                        |                |           |                                      |
+| elbox        | spider II usb             | 1        |          | came with a4000                                                        | yahoo auctions |           |                                      |
+| 3dfx         | Voodoo 3 2000(?)          | 1        |          |                                                                        |                |           |                                      |
+| generic?     | radeon 9200               | 1        |          | 128mb                                                                  |                |           |                                      |
+| Alibaba      | AS02MC04                  | 1        |          | Alibaba Cloud FPGA card, R1291-F9003-02 rev 06, PCIe x8 LP, SFP        |                |           | 6c1dc72d-5ea0-4082-b440-1c18741cf2db |
+| generic?     | Envy24HT-S 7.1 sound card | 1        |          | PCI, VIA VT1721 + VT1616 codec, WM8728 DAC, CS8415A, 2x optical, VER.A |                |           | d8839150-5359-4659-bc91-7d765901976c |
+| generic?     | Rage XL 8MB               | 1        |          | PCI, ATI Rage XL 215R3LASB41, 8MB EtronTech SDRAM, AM29F010 BIOS, VGA  |                |           | 5204ced0-3774-4172-9114-1d3ab3989b7b |
+| System TALKS | SUGOI CARD SGC-52UFG      | 1        |          | PCI combo: USB2 (NEC D720101), 1394 (TSB43AB23), LAN; PCI2250 bridge   |                |           | 5f3d20a9-4b23-42dc-9480-e699a71392b9 |
 
 # Olde Ethernet
 
