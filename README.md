@@ -159,45 +159,46 @@ Items with a Data Matrix sticker have their UUID in the `UUID` column; photos of
 
 # Dev board/module
 
-| vendor                 | part number       | package    | quantity     | location                 | notes                    |
-|------------------------|-------------------|------------|--------------|--------------------------|--------------------------|
-| adafruit               | trinket 3v        | mobule     | 1            | unsorted modules         | attiny usb breakout      |
-| adafruit               | trinket 5v        | mobule     | 1            | unsorted modules         | attiny usb breakout      |
-| CJMCU                  | CJMCU-2557        | module     | 1            |                          | BQ25570 energy harvester |
-| CJMCU                  | CJMCU-25504       | module     | 1            | unsorted modules         | BQ25504 energy harvester |
-| espressif              | esp32-wrover-b    | lga module | 5            |                          | ESP32                    |
-| Sipeed                 | Dan Dock          |            | 1            |                          | K210                     |
-| Sipeed                 | K210 module       |            | 1 (2?)       |                          | K210                     |
-| Sipeed                 | Maix bit          | Dev board  | 1 (2?)       |                          | K210                     |
-| Sipeed                 | Longan nano       | Dev board  | 2            |                          | GD RISC-V                |
-| Sipeed                 | Lichee Tang nano  | Dev board  | 2 (1 LCD)    |                          | Gowin FPGA               |
-| Sipeed                 | Tang primer 25K   | Dev board  | 2 (1 SDRAM)  | FPGA box                 | Gowin FPGA               |
-| Firefly                | core-rk3308y      | lga module | 1            |                          | RK3308                   |
-| Beagle                 | BeagleBone White  |            | 1            |                          |                          |
-| Beagle                 | PocketBeagle      |            | 3 (1 broked) |                          |                          |
-| ST                     | STM32F4 discovery |            | 1            |                          |                          |
-| ST                     | NUCLEO-U5A5ZJ-Q   | Dev board  | 1            | A & F sticker            |                          |
-| TI                     | CC3000BOOST       |            | 1            |                          |                          |
-| TI                     | EK-LM4F120XL      | Dev board  | 1            | Brown bookcase, black box|                          |
-| Olimex                 | AM3352-SOM-EVB    |            | 1            |                          |                          |
-| Renesas                | YRDKRX62N         |            | 1            |                          | RX62N, LCD is broked     |
-| Renesas                | YRDKSH7216(W)     |            | 1            |                          | SH2A                     |
-| GlobalScale            | Espressobin       | SBC        | 2            |                          |                          |
-| NVidia                 | Jetson Nano       | SBC        | 1            |                          |                          |
-| Nordic                 | nRF52840          | Dev board  | 1            | Brown bookcase, blue box |                          |
-| minibox                | picosam           | SBC        | 2            |                          | 1 with LCD               |
-| TTGO                   | t7_v1.4           | Dev board  | 1            |                          | ESP32                    |
-| TTGO                   | t18_3.0           | Dev board  | 1            |                          | ESP32                    |
-| XMOS                   | startkit          | Dev board  | 1            | Brown bookcase, white box|                          |
-| Core                   | GR Peach          | Dev board  | 1            |                          | Renesas RZ1/A            |
-| waveshare              | RP2040 zero       |            | 2            | unsorted modules box     |                          |
-| olimex                 | MOD-ENC644J600    | Module     | 1            | pikachu can              |                          |
-| ???                    | digispark at85    | module     | 1            | pikachu can              | Clone                    |
-| muselab                | icesugar nano     | module     | 2            | unsorted modules box     | ice fpga breakout        |
-| muselab                | usb-hs-bridge v1.0| module     | 1            | unsorted modules box     | CH347 breakout           |
-|                        | ice40_fpga_pico   | module     | 1            | FPGA box                 | ice fpga breakout        |
-|                        | flappyboard       | module     | 3            | unsorted modules box     | ch32v203g6 breakout      |
-|                        | ch376evt_v1.1     | module     | 2            |                          |                          |
+| vendor                 | part number            | package    | quantity     | location                  | notes                                                                         | UUID                                 |
+|------------------------|------------------------|------------|--------------|---------------------------|-------------------------------------------------------------------------------|--------------------------------------|
+| adafruit               | trinket 3v             | mobule     | 1            | unsorted modules          | attiny usb breakout                                                           |                                      |
+| adafruit               | trinket 5v             | mobule     | 1            | unsorted modules          | attiny usb breakout                                                           |                                      |
+| CJMCU                  | CJMCU-2557             | module     | 1            |                           | BQ25570 energy harvester                                                      |                                      |
+| CJMCU                  | CJMCU-25504            | module     | 1            | unsorted modules          | BQ25504 energy harvester                                                      |                                      |
+| espressif              | esp32-wrover-b         | lga module | 5            |                           | ESP32                                                                         |                                      |
+| Sipeed                 | Dan Dock               |            | 1            |                           | K210                                                                          |                                      |
+| Sipeed                 | K210 module            |            | 1 (2?)       |                           | K210                                                                          |                                      |
+| Sipeed                 | Maix bit               | Dev board  | 1 (2?)       |                           | K210                                                                          |                                      |
+| Sipeed                 | Longan nano            | Dev board  | 2            |                           | GD RISC-V                                                                     |                                      |
+| Sipeed                 | Lichee Tang nano       | Dev board  | 2 (1 LCD)    |                           | Gowin FPGA                                                                    |                                      |
+| Sipeed                 | Tang primer 25K        | Dev board  | 2 (1 SDRAM)  | FPGA box                  | Gowin FPGA                                                                    |                                      |
+| Firefly                | core-rk3308y           | lga module | 1            |                           | RK3308                                                                        |                                      |
+| Beagle                 | BeagleBone White       |            | 1            |                           |                                                                               |                                      |
+| Beagle                 | PocketBeagle           |            | 3 (1 broked) |                           |                                                                               |                                      |
+| ST                     | STM32F4 discovery      |            | 1            |                           |                                                                               |                                      |
+| ST                     | NUCLEO-U5A5ZJ-Q        | Dev board  | 1            | A & F sticker             |                                                                               |                                      |
+| TI                     | CC3000BOOST            |            | 1            |                           |                                                                               |                                      |
+| TI                     | EK-LM4F120XL           | Dev board  | 1            | Brown bookcase, black box |                                                                               |                                      |
+| Olimex                 | AM3352-SOM-EVB         |            | 1            |                           |                                                                               |                                      |
+| Renesas                | YRDKRX62N              |            | 1            |                           | RX62N, LCD is broked                                                          |                                      |
+| Renesas                | YRDKSH7216(W)          |            | 1            |                           | SH2A                                                                          |                                      |
+| GlobalScale            | Espressobin            | SBC        | 2            |                           |                                                                               |                                      |
+| NVidia                 | Jetson Nano            | SBC        | 1            |                           |                                                                               |                                      |
+| Nordic                 | nRF52840               | Dev board  | 1            | Brown bookcase, blue box  |                                                                               |                                      |
+| minibox                | picosam                | SBC        | 2            |                           | 1 with LCD                                                                    |                                      |
+| TTGO                   | t7_v1.4                | Dev board  | 1            |                           | ESP32                                                                         |                                      |
+| TTGO                   | t18_3.0                | Dev board  | 1            |                           | ESP32                                                                         |                                      |
+| XMOS                   | startkit               | Dev board  | 1            | Brown bookcase, white box |                                                                               |                                      |
+| Core                   | GR Peach               | Dev board  | 1            |                           | Renesas RZ1/A                                                                 |                                      |
+| waveshare              | RP2040 zero            |            | 2            | unsorted modules box      |                                                                               |                                      |
+| olimex                 | MOD-ENC644J600         | Module     | 1            | pikachu can               |                                                                               |                                      |
+| ???                    | digispark at85         | module     | 1            | pikachu can               | Clone                                                                         |                                      |
+| muselab                | icesugar nano          | module     | 2            | unsorted modules box      | ice fpga breakout                                                             |                                      |
+| muselab                | usb-hs-bridge v1.0     | module     | 1            | unsorted modules box      | CH347 breakout                                                                |                                      |
+|                        | ice40_fpga_pico        | module     | 1            | FPGA box                  | ice fpga breakout                                                             |                                      |
+|                        | flappyboard            | module     | 3            | unsorted modules box      | ch32v203g6 breakout                                                           |                                      |
+|                        | ch376evt_v1.1          | module     | 2            |                           |                                                                               |                                      |
+|                        | T-SH7706LSR rev. 2     | Dev board  | 1            |                           | SH3 6417706 133MHz, 32MB SDRAM, AT49BV040B, XC9536XL, AX88796B LAN, SD, RS232 | b637f7fe-b041-44a8-be85-b457f1d720b9 |
 
 # Oscillator / xtal
 
