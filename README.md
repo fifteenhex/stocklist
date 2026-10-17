@@ -198,7 +198,7 @@ Items with a Data Matrix sticker have their UUID in the `UUID` column; photos of
 |                        | ice40_fpga_pico        | module     | 1            | FPGA box                  | ice fpga breakout                                                             |                                      |
 |                        | flappyboard            | module     | 3            | unsorted modules box      | ch32v203g6 breakout                                                           |                                      |
 |                        | ch376evt_v1.1          | module     | 2            |                           |                                                                               |                                      |
-|                        | SH7706 LAN board (red) | Dev board  | 1            |                           | SH3 6417706 133MHz, 32MB SDRAM, AT49BV040B, XC9536XL, AX88796B LAN, SD, RS232 | b637f7fe-b041-44a8-be85-b457f1d720b9 |
+|                        | T-SH7706LSR rev. 2     | Dev board  | 1            |                           | SH3 6417706 133MHz, 32MB SDRAM, AT49BV040B, XC9536XL, AX88796B LAN, SD, RS232 | b637f7fe-b041-44a8-be85-b457f1d720b9 |
 
 # Oscillator / xtal
 
