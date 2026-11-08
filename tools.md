@@ -34,6 +34,7 @@
 | agilent                          | E3640A             | physical thing | 1            |                       |                                                 |         |
 | agilent                          | E3644A             | physical thing | 1            |                       |                                                 |         |
 | keysight                         | 6611C              | physical thing | 1            |                       |                                                 |         |
+| yokogawa                         | DL1740E            |                | 1            |                       |                                                 |         |
 
 ## Hand held meters
 
