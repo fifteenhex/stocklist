@@ -9,13 +9,18 @@
 
 ## Amiga
 
-| vendor    | name                 | quantity | location                     | notes                                                                                         | source         | datasheet |
-|-----------|----------------------|----------|------------------------------|-----------------------------------------------------------------------------------------------|----------------|-----------|
-| Commodore | Amiga A600           | 1        |                              |                                                                                               | ebay uk        |           |
-| Commodore | Amiga A4000          | 1        | in da house!!1               |                                                                                               | yahoo auctions |           |
-| Commodore | kickstart v40.68 set | 1        | silver bag "amiga chips" bag |                                                                                               | yahoo auctions |           |
-| Commodore | 390540-02            | 1        | silver bag "amiga chips" bag | 41-FAT GARY                                                                                   | yahoo auctions |           |
-| Commodore | 390539-11            | 1        | silver bag "amiga chips" bag | 45-SUPER BUSTER                                                                               | yahoo auctions |           |
+| vendor               | name                      | quantity | location                     | notes                                                                                         | source         | datasheet | UUID                                 |
+|----------------------|---------------------------|----------|------------------------------|-----------------------------------------------------------------------------------------------|----------------|-----------|--------------------------------------|
+| Commodore            | Amiga A600                | 1        |                              |                                                                                               | ebay uk        |           |                                      |
+| Commodore            | Amiga A4000               | 1        | in da house!!1               |                                                                                               | yahoo auctions |           |                                      |
+| Commodore            | kickstart v40.68 set      | 1        | silver bag "amiga chips" bag |                                                                                               | yahoo auctions |           |                                      |
+| Commodore            | 390540-02                 | 1        | silver bag "amiga chips" bag | 41-FAT GARY                                                                                   | yahoo auctions |           |                                      |
+| Commodore            | 390539-11                 | 1        | silver bag "amiga chips" bag | 45-SUPER BUSTER                                                                               | yahoo auctions |           |                                      |
+| DCE                  | Blizzard 1260             | 1        |                              | A1200 accel, 68060RC50, build 17.7.99, Phase5 licence                                         |                |           | cf47c3e1-6d4e-40b4-91ce-f2ccd6f4791b |
+| GVP                  | A1200 JAWS II             | 1        |                              | A1200 accel, 68030RC50, MACH130, 2x 72-pin SIMM, sticker 3.00                                 |                |           | ecdc8e2b-3d6b-43bb-889f-109fef8d145e |
+| ACT                  | Apollo A4000-060 XP rev 2 | 1        |                              | A4000 accel, 68060RC50, MACH 5, SCSI, 4x SIMM (2 fitted), #0038                               |                |           | 0f919273-7075-4ad8-aa54-862876e12218 |
+| Individual Computers | Catweasel ISA rev 2b      | 1        |                              | Y2K edition, ISA floppy controller, (C)1996-2000                                              |                |           | be736103-88d1-4127-a454-e680a3a96f03 |
+| Matay                | Prometheus rev E          | 1        |                              | Zorro III PCI busboard, 4x PCI, 2x Altera EPM7128, 33MHz                                      |                |           | 84fc4784-709c-4828-a9c8-239294f5c759 |
 
 ## Apple (yuk!)
 
