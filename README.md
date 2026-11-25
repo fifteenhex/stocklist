@@ -199,7 +199,7 @@ Items with a Data Matrix sticker have their UUID in the `UUID` column; photos of
 |                        | flappyboard            | module     | 3            | unsorted modules box      | ch32v203g6 breakout                                                           |                                                                                                                                               |                                      |
 |                        | ch376evt_v1.1          | module     | 2            |                           |                                                                               |                                                                                                                                               |                                      |
 |                        | T-SH7706LSR rev. 2     | Dev board  | 1            |                           | SH3 6417706 133MHz, 32MB SDRAM, AT49BV040B, XC9536XL, AX88796B LAN, SD, RS232 |                                                                                                                                               | b637f7fe-b041-44a8-be85-b457f1d720b9 |
-| Motorola               | M68VZ328ADS ver 1.4    | Dev board  | 1            |                           | DragonBall VZ ADS: MC68VZ328, flash, SDRAM, 2x RS232, LCD, bootstrap          | [ADS manual](https://www.nxp.com/docs/en/reference-manual/MC68VZ328ADSUM.pdf) [VZ UM](https://www.nxp.com/docs/en/user-guide/MC68VZ328UM.pdf) | af6a4437-19fe-4110-8af9-95531d21e87d |
+| Motorola               | M68VZ328ADS ver 1.4    | Dev board  | 1            |                           | DragonBall VZ ADS: MC68VZ328, flash, SDRAM, 2x RS232, LCD, bootstrap          | [ADS manual][vzads] [VZ UM][vzum]                                                                                                             | af6a4437-19fe-4110-8af9-95531d21e87d |
 
 # Oscillator / xtal
 
@@ -269,3 +269,6 @@ Items with a Data Matrix sticker have their UUID in the `UUID` column; photos of
 - STM32L011D3P6 - stm32 mcu
 - MMBT3904 (1AM) - NPN transistor
 
+
+[vzads]: https://www.nxp.com/docs/en/reference-manual/MC68VZ328ADSUM.pdf "M68VZ328ADS User's Manual rev 1.4"
+[vzum]: https://www.nxp.com/docs/en/user-guide/MC68VZ328UM.pdf "MC68VZ328 Integrated Processor User's Manual"
